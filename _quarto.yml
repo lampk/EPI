@@ -1,0 +1,50 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Dịch tễ học"
+  author: "Phùng Khánh Lâm"
+  date: "2/20/2023"
+  chapters:
+    - index.qmd
+    - part: epibasic.qmd
+      chapters:
+      - epibasic_01_intro.qmd
+      - epibasic_02_dis_epi.qmd
+      - epibasic_03_measure_occurrence.qmd
+      - epibasic_04_measure_association.qmd
+      - epibasic_05_random_error.qmd
+      - epibasic_06_systematic_error.qmd
+      - epibasic_07_confounding.qmd
+      - epibasic_08_causal_inference.qmd
+      - epibasic_09_study_design.qmd
+      - epibasic_10_data_analysis.qmd
+    - part: epiid.qmd
+      chapters:
+      - epiid_01_intro.qmd
+      - epiid_02_epidemics.qmd
+      - epiid_03_r.qmd
+      - epiid_04_herdimmunity_control.qmd
+      - epiid_05_transmission_dynamics.qmd
+      - epiid_06_seroprevalence.qmd
+      - epiid_07_hetero_transmission.qmd
+      - epiid_08_sti.qmd
+      - epiid_09_vbd.qmd
+      - epiid_10_study_design.qmd
+      - epiid_11_evolution.qmd
+      - epiid_12_data_analysis.qmd
+      - epiid_13_math_models.qmd
+      - epiid_14_outbreak_analytics.qmd
+      - epiid_15_analyse_surveillance_data.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
