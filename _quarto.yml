@@ -39,6 +39,7 @@ book:
       - epiid_15_analyse_surveillance_data.qmd
 
 bibliography: references.bib
+language: vn.yml
 
 format:
   html:
