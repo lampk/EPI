@@ -17,7 +17,8 @@ book:
       - epibasic_05_random_error.qmd
       - epibasic_06_systematic_error.qmd
       - epibasic_07_confounding.qmd
-      - epibasic_08_causal_inference.qmd
+      #- epibasic_08_causal_inference.qmd
+      #- epibasic_08_causal_inference2.qmd
       - epibasic_09_study_design.qmd
       - epibasic_10_data_analysis.qmd
     - part: epiid.qmd
@@ -37,6 +38,38 @@ book:
       - epiid_13_math_models.qmd
       - epiid_14_outbreak_analytics.qmd
       - epiid_15_analyse_surveillance_data.qmd
+    - part: idana.qmd
+      chapters:
+      - idana_01_concepts_popdynpath.qmd
+      - idana_02_concepts_iddata.qmd
+      - idana_03_concepts_concepts.qmd
+      - idana_04_concepts_parm.qmd
+      - idana_05_concepts_contact.qmd
+      - idana_06_concepts_stotransmod.qmd
+      - idana_07_concepts_vaccine.qmd
+      - idana_08_outbreak_mcmc.qmd
+      - idana_09_outbreak_approxbayes.qmd
+      - idana_10_outbreak_filtering.qmd
+      - idana_11_outbreak_pwsurv.qmd
+      - idana_12_outbreak_genomic.qmd
+      - idana_13_sero_immunity.qmd
+      - idana_14_sero_timeinfect.qmd
+      - idana_15_sero_incidence.qmd
+      - idana_16_sero_transmod.qmd
+      - idana_17_sero_multivariate.qmd
+      - idana_18_sero_mixture.qmd
+      - idana_19_surv_pointprocess.qmd
+      - idana_20_surv_prosdetect.qmd
+      - idana_21_surv_report.qmd
+      - idana_22_surv_spatialtemporal.qmd
+      - idana_23_surv_multisources.qmd
+      - idana_24_surv_forecasting.qmd
+      - idana_25_surv_mapping.qmd
+    - part: keyrefs.qmd
+      chapters:
+      - keyrefs_01_epi.qmd
+      - keyrefs_02_epiid.qmd
+      - keyrefs_03_idana.qmd
 
 bibliography: references.bib
 language: vn.yml
@@ -44,8 +77,13 @@ language: vn.yml
 format:
   html:
     theme: cosmo
+    reference-location: margin
+    citation-location: margin
+    fig-cap-location: margin
   pdf:
     documentclass: scrreprt
+
+
 
 editor: visual
 

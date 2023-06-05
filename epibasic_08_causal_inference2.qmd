@@ -1,0 +1,109 @@
+# Suy diễn nhân quả - Một ví dụ
+
+## Bối cảnh
+
+Đây là một tình huống được giả lập dựa theo Thử nghiệm Can thiệp Khuyến khích Bú sữa mẹ (Promotion of Breastfeeding Intervention Trial, PROBIT). Đây là một thử nghiệm lâm sàng, có nhóm chứng, phân nhóm ngẫu nhiên trong đó các cặp mẹ-con tại 31 bệnh viện phụ sản tại Belarus được phân ngẫu nhiên vào nhóm nhận chăm sóc thông thường hoặc nhóm được đề nghị tham gia một chương trình khuyến khích bú sữa mẹ.
+
+Mục tiêu của nghiên cứu nhằm tìm hiểu tác động của chương trình và của sữa mẹ lên sự phát triển sau đó của trẻ.
+
+Dữ liệu được giả lập với kết cuộc quan tâm là cân nặng của trẻ lúc 3 tháng tuổi, và tìm hiểu mối liên quan giữa kết cuộc này với phơi nhiễm được xác định lúc bắt đầu can thiệp và một số yếu tố dưới nguồn.
+
+### Qui ước chung
+
+-   $Y$: kết cuộc
+
+-   $A$: can thiệp (phơi nhiễm)
+
+-   $\mathcal{A}$: tập hợp bao gồm tất cả các giá trị của can thiệp (phơi nhiễm)
+
+-   $\mathcal{a}$: giá trị cụ thể của can thiệp ($\mathcal{a} \in \mathcal{A}$)
+
+-   $\mathfrak{a}(\mathcal{a})$: hành động gán $A$ là $\mathcal{a}$ (tương đương với $do$ của Pearl)
+
+-   $f(Y|do(A=\mathfrak{a}))$: phân phối $f$ của $Y$ khi $A$ được gán vào $\mathcal{a}$
+
+### Các bước thực hiện phân tích
+
+1.  Định nghĩa can thiệp và các giá trị về can thiệp phù hợp với câu hỏi nghiên cứu.
+
+2.  Định nghĩa kết cuộc tương ứng với câu hỏi nghiên cứu.
+
+3.  Định nghĩa dân số quan tâm.
+
+4.  Thiết lập từng kết cuộc tiềm năng cho mỗi mức độ về can thiệp mà dân số nghiên cứu có thể trải qua.
+
+5.  Xác định tác động nhân quả đích dưới dạng các tham số (estimand) thể hiện sự tương phản giữa các phân bố kết cuộc tiềm năng.
+
+6.  Trình bày các giả định kiểm chứng ước lượng về tác động nhân quả từ dữ liệu.
+
+7.  Ước tính tác động nhân quả đích.
+
+8.  Đánh giá giá trị của các giả định và thực hiện phân tích độ nhạy nếu cần thiết.
+
+### Bước 1: định nghĩa can thiệp
+
+::: column-margin
+Định nghĩa can thiệp phụ thuộc vào (1) bối cảnh thực hiện nghiên cứu và (2) dữ liệu hiện có.
+
+Can thiệp, theo nghĩa rộng, có thể bao gồm các biến số thay đổi được hoặc các biến số không thay đổi được (ví dụ các biến số về di truyền, giới tính sinh học)
+:::
+
+Trong nghiên cứu này, chúng ta có thể mong muốn định nghĩa tác động nhân quả của một can thiệp về bú sữa mẹ trên cân nặng của trẻ lúc 3 tháng tuổi.
+
+Chúng ta có thể định nghĩa "can thiệp về bú sữa mẹ" theo một số cách khác nhau:
+
+-   $A_1$: loại can thiệp được phân ngẫu nhiên (ví dụ như chương trình khuyến khích được cung cấp)
+
+-   $A_2$: việc tiếp nhận can thiệp (ví dụ như bà mẹ tham gia vào chương trình khi được cung cấp, có thể bao gồm việc trao đổi với chuyên gia tư vấn về sữa mẹ, đọc tờ rơi về bú sữa mẹ)
+
+-   $A_3$: việc thực hiện can thiệp đích (ví dụ như bà mẹ bắt đầu cho con bú sữa mẹ)
+
+-   $A_4$: việc hoàn tất can thiệp đích (ví dụ như bà mẹ bắt đầu cho con bú sữa mẹ và duy trì trong 3 tháng)
+
+Mỗi định nghĩa can thiệp trên hướng đến một loại hình bú sữa mẹ khác nhau:
+
+-   Chuyên gia về y tế công cộng sẽ quan tâm đến định nghĩa $A_1$ vì sử dụng định nghĩa này sẽ giúp đưa ra quyết định có cung cấp BEP hay không.
+
+-   Người mẹ sẽ quan tâm đến các định nghĩa $A_2, A_3, A_4$ vì các định nghĩa này sẽ giúp họ quyết định có thên tham gia vào chương trình hay không, nên bắt đầu cho con bú sữa mẹ hay không, nên duy trì việc cho con bú sữa mẹ hay không?
+
+Lưu ý rằng các định nghĩa trên vẫn chưa hoàn toàn rõ ràng, ví dụ như:
+
+-   $A_4 = 0$ : có thể bao gồm nhiều giai đoạn cho con bú sữa mẹ khác nhau (từ 0 đến dưới 3 tháng).
+
+-   $A_3 = 1$: có thể bao gồm nhiều giai đoạn cho con bú sữa mẹ khác nhau sau khi đã bắt đầu cho con bú sữa mẹ.
+
+Các định nghĩa khác nhau trên thể hiện một chuỗi phơi nhiễm (exposure chain). Và can thiệp vào một giai đoạn nhất định trong chuỗi phơi nhiễm sẽ tác động đến các mức độ phơi nhiễm sau đó.
+
+::: column-margin
+Hình sau thể hiện chuỗi phơi nhiễm được sử dụng để giả lập dữ liệu:
+
+![](images/image-601390205.png)
+:::
+
+### Bước 2: định nghĩa kết cuộc
+
+Trong nghiên cứu này, kết cuộc quan tâm có thể là
+
+-   cân nặng của trẻ lúc 3 tháng tuổi,
+
+-   sự thay đổi cân nặng của trẻ lúc 3 tháng tuổi so với lúc mới sinh,
+
+-   liệu cân nặng của trẻ lúc 3 tháng tuổi có cao hơn một ngưỡng nhất định.
+
+### Bước 3: định nghĩa dân số nghiên cứu
+
+::: column-margin
+Tác động nhân quả thường phụ thuộc vào các đặc tính nền, do đó có thể có độ lớn khác nhau ở những nhóm đối tượng khác nhau. Nhà nghiên cứu có thể quan tâm nhiều hơn đến một vài nhóm đối tượng cụ thể. Do đó, cần xác định và mô tả rõ nhóm đối tượng trong dân số cần quan tâm.
+
+Việc xác định các nhóm đối tượng này dựa trên một số đặc tính nhất định của người tham gia nghiên cứu và sẽ dẫn đến các tác động có điều kiện (conditional effects)
+:::
+
+Nhà nghiên cứu và người làm chính sách có thể muốn tìm hiểu xem liệu can thiệp về bú sữa mẹ có hiệu quả hơn ở những người mẹ có học vấn thấp (có nguy cơ cao sinh trẻ nhẹ cân) hay không. Ngoài ra, họ cũng có thể quan tâm đến hiệu quả can thiệp ở những người thực sự bị phơi nhiễm.
+
+### Bước 4: thiết lập các kết cuộc tiềm năng
+
+::: column-margin
+$Y_{\mathfrak{a}(\mathcal{a})}$ là kết cuộc sẽ quan sát được nếu phơi nhiễm được gán là $\mathcal{a}$ .
+
+Ở đây cần xem xét đến 2 giả định: (1) Không có sự can thiệp (no interference) và (2) Nhất quán về nhân quả (causal consistency)
+:::

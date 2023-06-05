@@ -1,1 +1,2081 @@
 # Suy diễn nhân quả
+
+## Cách tiếp cận cổ điển
+
+Cách tiếp cận cổ điển về suy diễn nhân quả được phát xuất từ cuộc tranh luận về mối quan hệ nhân quả giữa hút thuốc lá và ung thư phổi trong những năm thuộc thập niên 50-60.
+
+### Hút thuốc lá và ung thư phổi
+
+Vào những năm 50-60, bối cảnh của cuộc tranh luận này như sau:
+
+-   Kết quả từ các nghiên cứu dịch tễ học đã chỉ ra mối liên hệ của việc hút thuốc với việc tăng nguy cơ mắc bệnh ung thư phổi và các bệnh ung thư khác, bệnh tim mạch vành, bệnh "khí phế thủng" và "viêm phế quản". Trong đó, những dữ liệu liên quan nhất đến từ các nghiên cứu đoàn hệ, bệnh chứng và các mô hình động vật và nghiên cứu trong phòng thí nghiệm mô tả các thành phần của khói thuốc lá.
+
+-   Tỷ lệ tử vong do ung thư phổi và bệnh tim mạch vành ngày càng tăng đã tạo ra một yêu cầu cấp thiết phải hành động để giảm hút thuốc lá.
+
+Tuy nhiên, để thực hiện hành động, chúng ta cần phải xác định được hút thuốc là nguyên nhân làm tăng tỷ lệ tử vong.
+
+Ngành công nghiệp thuốc lá đã thực hiện một chiến lược trên quy mô lớn để đặt câu hỏi về độ tin cậy của bằng chứng dịch tễ học nói chung và của các nghiên cứu quan trọng nhất nói riêng. Chiến thuật tạo ra sự nghi ngờ về bằng chứng này đã làm gia tăng căng thẳng xung quanh thách thức diễn giải những phát hiện của nghiên cứu dịch tễ học. Điều này cho thấy tầm quan trọng về mặt xã hội của việc xác định nguyên nhân. Ngày nay, việc tạo ra và phổ biến sự hoài nghi vẫn là chiến lược được sử dụng rộng rãi bởi các bên liên quan có lợi ích tiềm ẩn bị đe dọa bởi phát hiện được nguyên nhân.
+
+Cách tiếp cận để suy diễn nhân quả trong những năm 1960 dựa vào đánh giá của chuyên gia theo một bộ hướng dẫn hoặc tiêu chí (Bảng 1). Hút thuốc là một nguyên nhân mạnh mẽ của ung thư phổi: làm tăng nguy cơ ung thư phổi lên khoảng 20 lần và dẫn đến hầu hết các trường hợp ung thư phổi. Vì thế, bằng chứng từ các nghiên cứu quan sát rất nhất quán và mạnh mẽ, và chiều thời gian rõ ràng.
+
+![](images/image-967118404.png)
+
+Những tiêu chí này (mà Hill gọi là "quan điểm cá nhân") không phải là những tiêu chí tuyệt đối và không bắt buộc cần phải đáp ứng tất cả các tiêu chí để suy diễn nhân quả. Trên thực tế, chỉ có chiều thời gian là cần thiết. Một số tiêu chí, đáng chú ý nhất là tính đặc hiệu, đã được chứng minh là có ít khả năng áp dụng cho các bệnh không lây nhiễm có nhiều nguyên nhân.
+
+Những hạn chế của cách tiếp cận cổ điển này bao gồm:
+
+-   Dễ bị ảnh hưởng bởi tính chủ quan trong việc đánh giá bằng chứng
+
+-   Dễ bị ảnh hưởng bởi sự thao túng bằng chứng
+
+-   Các bên liên quan có khả năng bị ảnh hưởng bởi phát hiện rằng mối liên hệ có hoặc không có quan hệ nhân quả có thể có quan điểm đối lập về việc giải thích bằng chứng.
+
+-   Giả định mối quan hệ trực tiếp đơn giản giữa nguyên nhân và kết quả giả định mà không xem xét rõ ràng cấu trúc của các quá trình nhân quả bên dưới. Suy luận về nguyên nhân trở thành cơ sở cho sự can thiệp, nhưng các kết luận về nguyên nhân không nằm trong hệ quả của các hành động cụ thể nhằm giảm hoặc loại bỏ nguyên nhân.
+
+Ví dụ, hút thuốc lá là nguyên nhân không thể chối cãi của bệnh ung thư phổi, nhưng xa hơn trong quá trình nhân quả, một số ít các công ty thuốc lá đa quốc gia sản xuất hầu hết thuốc lá được bán và hút trên toàn thế giới (Hình 1). Cuối cùng, các can thiệp y tế công cộng chủ yếu nhắm vào cá nhân người hút thuốc, thay vì các yếu tố nguồn như hệ thống sản xuất, quảng cáo và phân phối thuốc lá.
+
+Sự giới hạn về trọng tâm là một đặc điểm chính của cách tiếp cận truyền thống: các nhà dịch tễ học và những chuyên gia về y tế công cộng xác định vai trò nhân quả của các yếu tố nguy cơ khác nhau mà không xem xét đến tác động của một cách cụ thể để thay đổi chúng.
+
+![](images/image-1414770532.png)
+
+### Ví dụ 2
+
+Ngày nay, thực hành y tế công cộng bị ảnh hưởng bởi cả cách tiếp cận cổ điển và hiện đại, như trong ví dụ sau đây.
+
+Khi thiết lập các tiêu chuẩn chất lượng không khí ngoài trời ở Mỹ, suy luận nhân quả và cả các yếu tố phản thực có liên quan đều được đưa ra trong quá trình ra quyết định.
+
+Hai phần của Đạo luật Không khí Sạch (108 và 109) của Mỹ đề cập đến các chất gây ô nhiễm không khí ngoài trời chính, yêu cầu Quản trị viên của EPA đặt ra Tiêu chuẩn Chất lượng Quốc gia về Không khí Xung quanh (NAAQS) sao cho "việc đạt được và duy trì các tiêu chuẩn đó theo đánh giá của Quản trị viên, dựa trên các tiêu chí như vậy và cho phép một biên độ an toàn thích hợp, là cần thiết để bảo vệ sức khỏe cộng đồng" (p. 5697). Cụm từ "các tiêu chí như vậy" đề cập đến bằng chứng tích lũy về tác hại, nhấn mạnh đến điều được báo cáo kể từ lần xem xét NAAQS cuối cùng. Quy trình hiện tại đối với chất gây ô nhiễm, ví dụ như ôzôn, bắt đầu bằng việc xem xét bằng chứng, được tập hợp trong Đánh giá Khoa học Tích hợp (Hình 2). Quá trình suy luận nhân quả dựa trên cách tiếp cận cổ điển lâu đời và phân loại độ mạnh của bằng chứng theo sơ đồ năm cấp ("không có khả năng", "không đầy đủ", "gợi ý", "có khả năng" và "quan hệ nhân quả"). Việc phân loại, một phần, xác định các tác động được xem xét sau đó trong phân tích rủi ro, ước tính gánh nặng bệnh tật liên quan đến chất ô nhiễm và hậu quả của những thay đổi tiềm ẩn đối với NAAQS. Những tác động mà bằng chứng đạt đến mức độ "có khả năng" hoặc "quan hệ nhân quả" thường được đưa ra để xem xét trong phân tích rủi ro và do đó được đưa ra trong phán đoán chính sách do Quản trị viên đưa ra về việc sửa đổi NAAQS cho chất gây ô nhiễm. Phân tích rủi ro mô hình phân phối phản thực của kết cuộc sức khỏe theo các kịch bản giảm ô nhiễm khác nhau và không can thiệp. Phân tích rủi ro dựa trên nền tảng là cách tiếp cận hiện đại.
+
+![](images/image-1359905401.png)
+
+Cơ quan Nghiên cứu Ung thư Quốc tế (IARC) của Tổ chức Y tế Thế giới vận hành Chương trình Chuyên khảo, tiến hành các đánh giá có hệ thống để phân loại các tác nhân theo khả năng gây ung thư của chúng. Cách tiếp cận chung bao gồm một cuộc họp của một nhóm làm việc đa ngành để xem xét bằng chứng liên quan đến một tác nhân cụ thể trong bốn loại chính: (a) phơi nhiễm, (b) nghiên cứu về ung thư ở người, (c) nghiên cứu về ung thư ở động vật thí nghiệm và ( d) dữ liệu về cơ chế và các dữ liệu liên quan khác. Bằng chứng trên người và động vật được xem xét riêng biệt và đối với mỗi loại, độ mạnh của bằng chứng về nguyên nhân được phân loại theo lược đồ phân cấp bốn cấp độ: đủ, hạn chế, không đầy đủ hoặc gợi ý thiếu khả năng gây ung thư. Bằng chứng được đánh giá bằng cách tiếp cận dựa trên tiêu chí Hill hoặc cổ điển. Bằng chứng về vai trò của các cơ chế cụ thể được đánh giá là "yếu", "trung bình" hoặc "mạnh" và các nhà nghiên cứu xem xét sự liên quan của cơ chế đối với bệnh ung thư ở người. Việc phân loại tổng thể chủ yếu dựa trên các phát hiện trên động vật và con người (Hình 3), nhưng bằng chứng cơ học cũng có thể được sử dụng trong quá trình phân loại. Ví dụ, cách tiếp cận này đã dẫn đến việc phân loại bức xạ điện từ tần số vô tuyến năm 2011, loại phát ra từ điện thoại di động, là chất có thể gây ung thư ở người, Nhóm 2B trong lược đồ IARC.
+
+![](images/image-1306359696.png)
+
+## Cách tiếp cận hiện đại
+
+Vai trò chính của suy diễn nhân quả trong y tế công cộng là so sánh sự phân bố của kết cuộc sức khỏe sau khi thực hiện các biện pháp can thiệp khác nhau. Trong một thế giới lý tưởng, những so sánh này sẽ được thực hiện thông qua các thực nghiệm phân nhóm ngẫu nhiên và tất cả các quyết định về y tế công cộng đồng nên dựa trên kết quả của những thực nghiệm đó. Ví dụ, việc tích hợp các chương trình cai thuốc lá vào hệ thống chăm sóc sức khỏe sẽ là lý tưởng nếu dựa trên những phát hiện từ các nghiên cứu phân nhóm ngẫu nhiên dài hạn nhằm so sánh hiệu quả của can thiệp ở các nhóm lớn người từ dân số mục tiêu tuân thủ can thiệp với các nhóm kiểm soát. Tương tự, quyết định tăng thuế hoặc quy định đối với các sản phẩm thuốc lá sẽ dựa trên các nghiên cứu phân bổ ngẫu nhiên các chính sách này giữa các cộng đồng hoặc quận. Thật không may, những thử nghiệm ngẫu nhiên như vậy thường phi đạo đức, không thực tế hoặc đơn giản là quá lâu để đưa ra quyết định kịp thời. Do đó, các suy diễn nhân quả đối với y tế công cộng thường bắt nguồn từ các nghiên cứu quan sát, được củng cố bởi các loại bằng chứng khác nếu có.
+
+Việc sử dụng dữ liệu quan sát, thay vì thử nghiệm, để suy luận nhân quả trong sức khỏe cộng đồng gây ra một số lo ngại. Một mối quan tâm đặc biệt liên quan đến sức khỏe cộng đồng là các biện pháp can thiệp đang được xem xét có thể được xác định một cách mơ hồ, từ đó hạn chế mức độ liên quan của các phát hiện đối với việc ra quyết định về sức khỏe cộng đồng. Ví dụ: so sánh tỷ lệ tử vong quan sát được giữa người béo phì và người gầy cho thấy mối quan hệ nhân quả có thể có giữa béo phì và tử vong nhưng đưa ra rất ít hướng dẫn cho hành động: nên tìm giải pháp trong các chương trình tập thể dục tại nơi làm việc, giảm kích cỡ nước ngọt có đường bán lẻ cửa hàng, hay hút mỡ? Mặc dù béo phì có thể đáp ứng các tiêu chí về yếu tố nguyên nhân trong cách tiếp cận cổ điển, nhưng mối liên hệ giữa béo phì và tỷ lệ tử vong mang lại rất ít hiểu biết cho hành động phòng ngừa. Một giải pháp thay thế là tập trung vào sự tương phản giữa các cá nhân được chỉ định ngẫu nhiên để điều chỉnh chế độ ăn uống so với những người không hoặc sự tương phản giữa các cộng đồng được chọn ngẫu nhiên để đánh thuế đồ uống có đường so với những người không. Những phát hiện từ những thử nghiệm như vậy sẽ cung cấp thông tin trực tiếp, có thể hành động về tác động của các biện pháp can thiệp chống béo phì. Nghiên cứu quan sát so sánh người béo phì và người gầy chỉ cung cấp bằng chứng gián tiếp và thiếu mối quan hệ nhân quả có thể kiểm chứng chính thức nếu không có thêm mô tả chi tiết.
+
+Một cách để giải quyết mối lo ngại này và thu hẹp khoảng cách giữa dữ liệu quan sát và quá trình ra quyết định về sức khỏe cộng đồng là thiết kế các phân tích quan sát theo cách sao cho dữ liệu quan sát mô phỏng dữ liệu từ các thử nghiệm ngẫu nhiên giả định với các biện pháp can thiệp tương đối rõ ràng. Ví dụ, dữ liệu quan sát có thể được sử dụng để bắt chước một thử nghiệm ngẫu nhiên giả định liên quan đến các can thiệp chế độ ăn uống bằng cách so sánh kết quả quan sát được của những cá nhân thay đổi so với những người không thay đổi chế độ ăn uống của họ trong suốt thời gian nghiên cứu; hoặc dữ liệu có thể được sử dụng để bắt chước một thử nghiệm ngẫu nhiên giả định về chính sách thực phẩm bằng cách so sánh kết quả sức khỏe giữa các trường đã hạn chế và không hạn chế tiếp cận đồ uống có đường. Cách tiếp cận này được xây dựng trong cách tiếp cận kết cuộc phản thực tế hoặc tiềm năng do Neyman đề xuất, được mở rộng bởi Rubin và được Robins tổng quát hóa cho các mức độ phơi nhiễm thay đổi theo thời gian. Một cách tiếp cận phản thực đối với suy diễn nhân quả trong y tế công cộng đòi hỏi các tác động nhân quả được xác định theo sự tương phản giữa sự phân bổ các kết cuộc sức khỏe theo các can thiệp được xác định rõ (giả thuyết) khác nhau.
+
+Tuy nhiên, việc so sánh các biện pháp can thiệp y tế công cộng tương đối rõ ràng chỉ là vấn đề đầu tiên đối với suy luận nhân quả từ dữ liệu quan sát. Ngay cả các nhóm can thiệp được xác định rõ ràng thường sẽ không thể so sánh trực tiếp được vì các đặc điểm chính của các cá nhân trong mỗi nhóm có thể khác nhau. Ví dụ, những cá nhân thay đổi chế độ ăn uống của họ cũng có thể áp dụng lối sống lành mạnh hơn những người không thay đổi, và những trường học thay đổi chính sách thực phẩm của họ có thể phục vụ những nhóm dân cư ít bất bình đẳng kinh tế hơn so với những trường học không thay đổi chính sách. Vấn đề không thể so sánh này, thường được gọi là gây nhiễu, là một vấn đề cơ bản đối với suy diễn nhân quả sử dụng dữ liệu quan sát.
+
+Cách tiếp cận phổ biến nhất để giảm thiểu nhiễu là đo lường càng nhiều biến số chịu trách nhiệm về tính không thể so sánh càng tốt và điều chỉnh chúng trong phân tích thống kê. Các phương pháp có sẵn để điều chỉnh các yếu tố gây nhiễu đo được là phân tầng, đối sánh, tiêu chuẩn hóa, trọng số xác suất nghịch đảo và ước tính-g. Trong các ứng dụng thực tế với dữ liệu thưa thớt hoặc nhiều chiều, các phương pháp điều chỉnh này được thực hiện với sự trợ giúp của các mô hình thống kê. Ví dụ, điều chỉnh thông qua phân tầng thường được thực hiện bằng cách sử dụng các mô hình hồi quy thông thường.
+
+Đôi khi các yếu tố gây nhiễu đo được được sử dụng để ước tính xác suất nhận được phơi nhiễm quan tâm của mỗi người tham gia nghiên cứu. Đối với các biến số phơi nhiễm dạng nhị giá (ví dụ: có/không), xác suất này được gọi là điểm khuynh hướng (propensity score). Nếu có điểm khuynh hướng để điều chỉnh, thì không cần đến các biến số riêng lẻ nữa. Trọng số nghịch đảo xác suất và ước tính g là các phương pháp dựa trên điểm xu hướng. Điểm xu hướng cũng có thể được sử dụng để hiệu chỉnh sự gây nhiễu thông qua phân tầng (ví dụ: bằng cách thêm điểm xu hướng dưới dạng đồng biến số trong mô hình hồi quy), bắt cặp và chuẩn hóa.
+
+Để các phương pháp trên cung cấp kết luận hợp lệ về nhân quả, tất cả các yếu tố gây nhiễu phải được xác định và đo lường một cách thích hợp, và đây là một điều kiện không thể kiểm chứng bằng thực nghiệm. Một phương pháp khác để loại bỏ nhiễu khỏi ước tính tác động là ước lượng dựa vào biến công cụ (instrument variable). Không giống như các phương pháp khác, ước lượng dựa trên biến công cụ không yêu cầu các nhà điều tra đo lường bất kỳ yếu tố gây nhiễu nào. Thay vào đó, phương pháp này yêu cầu họ xác định và đo lường một cách thích hợp một biến số công cụ, được định nghĩa đại khái là một biến số có ảnh hưởng đến mức độ phơi nhiễm và không liên quan đến kết quả ngoại trừ thông qua tác động của nó đối với mức độ phơi nhiễm. Thật không may, không thể xác minh bằng thực nghiệm rằng một biến cụ thể là một biến số công cụ thích hợp. Hơn nữa, các biến số công cụ hợp lệ chỉ có thể cung cấp các giới hạn dưới và trên cho mức độ của tác động nhân quả quan tâm. Thông thường, những giới hạn này không hữu ích cho việc ra quyết định vì chúng bao gồm các tác động từ có lợi đến có hại. Kết quả là, hầu hết các ứng dụng của các biến số công cụ đều đưa ra các giả định bổ sung không thể kiểm chứng để có được các ước lượng điểm cho tác động quan tâm.
+
+Khi mức độ phơi nhiễm thay đổi theo thời gian, một vấn đề tiềm ẩn mới sẽ nảy sinh: Có lẽ bản thân các yếu tố gây nhiễu (cũng thay đổi theo thời gian) bị ảnh hưởng bởi các mức độ phơi nhiễm trước đó. Khi có quy trình phản hồi về yếu tố gây nhiễu - phơi nhiễm này, một số phương pháp trên---phân tầng và bắt cặp---nhìn chung là không thể được sử dụng để đưa ra suy diễn nhân quả hợp lệ. Điều chỉnh hợp lệ cho nhiễu đo được cần sử dụng đến công thức g tham số (tổng quát hóa tiêu chuẩn hóa) , nghịch đảo xác suất của các mô hình cấu trúc cận biên hoặc ước tính g của các mô hình cấu trúc lồng nhau (bao gồm một số các hình thức ước tính biến công cụ cho các mức độ phơi nhiễm thay đổi theo thời gian như một trường hợp cụ thể). Các phương pháp này do Robins và cộng sự phát triển từ năm 1986, thường được gọi là phương pháp nhân quả vì chúng có thể được áp dụng để thu được các suy luận nhân quả hợp lệ, ngay cả trong các bối cảnh phức tạp với các yếu tố gây nhiễu thay đổi theo thời gian bị ảnh hưởng bởi sự phơi nhiễm trước đó.
+
+Một bổ sung gần đây khác cho phương pháp suy luận nhân quả là việc sử dụng sơ đồ nhân quả (đồ thị không tuần hoàn có hướng hoặc DAG). Mặc dù bản thân nó không phải là một phương pháp phân tích dữ liệu, nhưng sơ đồ nhân quả được sử dụng để biểu thị cấu trúc của các mạng lưới nhân quả liên kết mức độ phơi nhiễm, kết cuộc, yếu tố gây nhiễu và các biến số khác, đòi hỏi phải xây dựng rõ ràng mối quan hệ giữa các yếu tố này. Do đó, sơ đồ nhân quả là một công cụ hữu ích để phát hiện, bằng đồ thị, các nguồn sai lệch có thể có và để hướng dẫn các nhà điều tra thiết kế phân tích dữ liệu của họ.
+
+### Những thách thức để triển khai cách tiếp cận kết cuộc tiềm năng
+
+Mặc dù cách tiếp cận kết cuộc tiềm năng là mạnh mẽ trong bối cảnh có nhiều câu hỏi về nguyên nhân có giá trị cao đối với sức khỏe cộng đồng, nhưng việc sử dụng nó đặt ra một số câu hỏi. Ví dụ: chúng ta có nên xem xét các câu hỏi nhân quả về các đặc điểm vốn có của cá nhân (chẳng hạn như giới tính, chủng tộc/sắc tộc hoặc tuổi tác) mà không thể diễn giải một cách hợp lý thành các can thiệp giả định? Và làm thế nào các nhà nghiên cứu nên giải quyết các yếu tố cá nhân (ví dụ: trọng lượng cơ thể) hoặc xã hội (ví dụ: mức thu nhập khu vực lân cận) có thể được chuyển thành các biện pháp can thiệp giả định nhưng lại tồn tại nhiều biện pháp can thiệp khả thi? Cách tiếp cận kết cuộc tiềm ẩn nhấn mạnh rằng khi chúng ta ước tính mối liên hệ giữa kết quả sức khỏe với các yếu tố không thể thay đổi, câu hỏi làm thế nào để thay đổi kết quả do các yếu tố đó gây ra vẫn còn bỏ ngỏ. Do đó, các nghiên cứu về mối liên hệ giữa các yếu tố không thể thay đổi và kết cuộc sức khỏe có thể được coi là khúc dạo đầu cho các nghiên cứu khác về các can thiệp giả định. Ví dụ: nếu các nghiên cứu quan sát cho chúng ta biết rằng những người sống ở các khu dân cư nghèo có tỷ lệ mắc bệnh ung thư cao hơn so với những người sống ở các khu dân cư giàu có hơn, thì chuỗi điều tra tiếp theo có thể xem xét các chế độ ăn uống hoặc phơi nhiễm chất gây ung thư có thể thay đổi được khác nhau giữa các cộng đồng đang được nghiên cứu. Phát hiện ban đầu về tỷ lệ ung thư cao hơn ở các cộng đồng nghèo là rất quan trọng trong việc thúc đẩy các nghiên cứu tìm ra nguyên nhân có thể được điều chỉnh. Nếu không có nghiên cứu sâu hơn như vậy, dịch tễ học sẽ chủ yếu trở thành một công cụ mô tả cho phân tích xã hội học và ít là một công cụ cung cấp bằng chứng dẫn đến các can thiệp để cải thiện sức khỏe.
+
+Khung kết cuộc tiềm năng cũng có thể được kết hợp với khung đa cấp độ để đưa bối cảnh trở lại dịch tễ học và sức khỏe cộng đồng (5, 6, 12, 48, 59). Vai trò nguyên nhân của các yếu tố bối cảnh cấp cao hơn có thể được đánh giá miễn là chúng có thể được định nghĩa là so sánh giữa các can thiệp hoặc chính sách khác nhau. Tuy nhiên, ngay cả khi có thể tưởng tượng được các can thiệp giả định đối với các chính sách quốc gia hoặc khu vực (mặc dù thường không thể thực hiện được), thì nhiều trong số các sự phơi nhiễm theo bối cảnh này là đồng nhất trong một xã hội, điều này gây khó khăn cho việc thu thập dữ liệu cần thiết để tiến hành đánh giá. Kết quả là, trong thực tế, các nhà dịch tễ học và các nhà thực hành y tế công cộng có thể được khuyến khích ưu tiên nghiên cứu các can thiệp gần và hạ nguồn ở cấp độ cá nhân. Ví dụ, sẽ dễ dàng hơn khi tiến hành hoặc mô phỏng bằng cách sử dụng dữ liệu quan sát, các thử nghiệm ngẫu nhiên về các chương trình cai thuốc nhắm vào cá nhân so với tiến hành các thử nghiệm về hành vi của các tổ chức doanh nghiệp được tài trợ tốt với các lợi ích được đầu tư và các mối quan hệ chính trị.
+
+Khung kết cuộc tiềm năng đã được mở rộng theo nhiều hướng để phù hợp với các quá trình nhân quả đa cấp độ. Các phương pháp tiếp cận mô hình chính thức đã phát sinh trong bệnh truyền nhiễm để xử lý nội sinh và can thiệp. Các phương pháp tiếp cận hệ thống phức tạp đã bắt đầu đưa ra các khuôn khổ mới cho các quá trình nhân quả trên nhiều quy mô địa lý và thời gian. Chúng đề xuất lập bản đồ các tác nhân và quy trình liên quan đến việc tạo ra kết quả và do đó, rất hữu ích để định hình nhiều thách thức cấp bách nhất về sức khỏe cộng đồng do các quy trình ở các cấp độ từ địa phương đến toàn cầu. Chúng cần được đưa ra để giải quyết các vấn đề sức khỏe cộng đồng khi thích hợp. Chúng chỉ ra dữ liệu nên được thu thập, cách tổ chức dữ liệu và cách dữ liệu nên được phân tích trong khung kết quả tiềm năng. Các phương pháp tiếp cận hệ thống phức hợp cũng có thể cung cấp những hiểu biết sâu sắc về hệ quả của các kết quả được thực hiện bởi các chủ thể khác nhau và ở các cấp độ khác nhau.
+
+## Tương lai của suy diễn nhân quả trong y tế công cộng
+
+Các phương pháp suy luận nguyên nhân hiện tại có liên quan và hữu ích vì chúng không hướng đến việc xác định nguyên nhân mà nhằm xác định tác động của các biện pháp can thiệp. Các tiêu chí cổ điển cho suy luận nhân quả không tách biệt rõ ràng hai mục tiêu này, dẫn đến các cuộc tranh luận về việc quy kết nguyên nhân, trên thực tế, ngầm hiểu là về can thiệp thích hợp. Ngay cả khi chúng ta hiểu hoàn hảo về chuỗi nhân quả, tức là biết mọi yếu tố có thể được coi là nguyên nhân, chúng ta vẫn có thể không biết cách tốt nhất để thay đổi kết quả. Các phương pháp suy luận nhân quả mới hơn đưa chúng ta ra khỏi bài tập triết học về xác định nguyên nhân và buộc chúng ta phải xem xét sâu sắc hơn cách cải thiện sức khỏe thông qua các biện pháp can thiệp cụ thể.
+
+Quay trở lại ví dụ về thuốc lá, vì mục đích sức khỏe cộng đồng, việc ước tính tác động của việc giảm hút thuốc ở từng cá nhân nhất định ít quan trọng hơn so với ước tính hậu quả đối với sức khỏe của các chương trình cai thuốc lá so với thuế thuốc lá. Bài tập sau cung cấp một hướng dẫn để hành động. Nhưng điều khác biệt về hai biện pháp can thiệp này, ngoài tác động ước tính của chúng, là cách chúng ta đánh giá chúng. Hiệu quả của việc cai thuốc lá có thể được đánh giá bằng thử nghiệm ngẫu nhiên, nhưng việc mô tả các hậu quả của việc tăng thuế và các hình thức can thiệp xã hội khác có thể không được. Trong những tình huống như vậy, chúng ta phải sử dụng dữ liệu quan sát để mô phỏng thử nghiệm không thể tiến hành được. Càng rời xa thử nghiệm ngẫu nhiên để đánh giá, thì sự phụ thuộc vào mô hình hóa và kiến thức về chủ đề, bao gồm xã hội học và các lý thuyết khác càng lớn. Nhu cầu chuyển sang dữ liệu quan sát này đặt ra một vấn đề nan giải tiềm ẩn đối với sức khỏe cộng đồng; nếu chúng ta không thể tập trung vào các biện pháp can thiệp dễ đánh giá, chúng ta có thể bỏ qua các biện pháp can thiệp ngược dòng mà thử nghiệm ngẫu nhiên không thể được tiến hành hoặc mô phỏng nhưng có thể có tiềm năng tác động thay đổi lớn nhất. Các khuôn khổ và phương pháp suy luận nguyên nhân giúp chúng ta xác định các lựa chọn can thiệp và xác định cách tốt nhất để đánh giá tác động của chúng, nhưng chúng không nhất thiết cung cấp thông tin về các mức độ can thiệp liên quan cần xem xét và những biện pháp can thiệp nào nên được thực hiện.
+
+Phần thảo luận trước cho chúng ta thấy rằng những người nỗ lực cải thiện sức khỏe cộng đồng không thể bỏ qua các phương pháp suy luận nhân quả. Việc tập trung vào tác động của các biện pháp can thiệp hơn là nguyên nhân khiến khoa học về sức khỏe cộng đồng liên kết chặt chẽ hơn với thực tiễn của nó. Các phương pháp suy luận nhân quả mới buộc chúng ta phải đối mặt, như các phương pháp trước đây đã không làm, các biện pháp can thiệp sẽ ảnh hưởng đến sức khỏe cộng đồng như thế nào. Tuy nhiên, một số bước phải được thực hiện để chuyển các phương pháp này từ học viện sang thực tiễn. Đầu tiên, việc giảng dạy về sức khỏe cộng đồng, đặc biệt là trong các chương trình MPH (thạc sĩ về sức khỏe cộng đồng), thường nhấn mạnh vào khuôn khổ cổ điển. Trọng tâm hạn chế này cần phải được thay đổi để chúng ta có thể tạo ra một nhóm chuyên gia y tế công cộng mới, những người hiểu rõ hơn về nguyên nhân và sự liên quan của khung kết quả tiềm năng đối với công việc của họ. Thứ hai, các ví dụ nổi bật, dễ tiếp cận về tiện ích của khuôn khổ hiện đại cần được phát triển và phổ biến thông qua xuất bản và thuyết trình tại các cuộc họp chuyên môn mà các chuyên gia y tế công cộng tham dự. Ví dụ, một nghiên cứu trường hợp rất hữu ích có thể được phát triển xung quanh chiến lược đa thành phần được sử dụng để giải quyết vấn đề hút thuốc lá ở Thành phố New York (10). Trong giai đoạn 2002--2003, hút thuốc lá giảm mạnh ở Thành phố New York sau khi thực hiện chiến lược tích cực với các thành phần bao gồm tăng thuế, cấm hút thuốc trong nhà ở hầu hết các nơi làm việc, tăng dịch vụ cai nghiện và giáo dục. Những phương pháp này có thể được sử dụng để giải quyết tác động sức khỏe cộng đồng của lệnh cấm bán đồ uống chứa đường cỡ lớn có hiệu lực từ năm 2013. Sự can thiệp được công bố rộng rãi này mang lại một trường hợp thử nghiệm có giá trị.
+
+Khung kết quả tiềm năng nên được áp dụng khi thích hợp để đánh giá hiệu quả tiềm năng của các hành động y tế công cộng. Chúng tôi đã đề cập đến các công cụ phân tích mới được phát triển để làm sắc nét các phân tích dữ liệu quan sát trong khuôn khổ này, nhận ra rằng không thể thực hiện các thử nghiệm ngẫu nhiên thực sự đối với nhiều vấn đề. Các cách tiếp cận khác nắm bắt được sự phức tạp của các quy trình nhân quả với đủ hình thức để hữu ích như một khuôn khổ cho việc thu thập và phân tích dữ liệu và để xác định các mục tiêu can thiệp. Khi dữ liệu y tế công cộng được thu thập, chúng cần phải có đủ độ phong phú cho mục đích này. Các chuyên gia y tế công cộng không cần phải ngại suy luận nhân quả khi sử dụng các phương pháp mới hơn này vì sự phức tạp được nhận thức.
+
+Khi nguồn gốc của các câu hỏi mà các chuyên gia y tế công cộng phải đối mặt trở nên phức tạp và mang tính toàn cầu hơn, chúng ta ngày càng gặp nhiều thách thức trong việc hiểu thế giới một cách đầy đủ và nắm bắt được sự phức tạp của thế giới trong các mô hình và biện pháp can thiệp của mình để xác định các lĩnh vực cần thay đổi. Từ béo phì đến biến đổi khí hậu, làm thế nào chúng ta nên đo lường tác động của các nguyên nhân và nơi đầu tư được định hướng tốt nhất trở thành những câu hỏi với những hậu quả to lớn về sức khỏe và xã hội. Với rất nhiều nguy cơ và với số lượng thông tin được liên kết từ nhiều cấp độ---từ gen đến môi trường---mà các thế hệ trước chưa từng có, các công cụ khái niệm và định lượng của chúng tôi phải bắt kịp. Tiện ích của các phương pháp tiếp cận quen thuộc, đã được sử dụng từ lâu để phân tích thống kê và suy luận nguyên nhân nhằm diễn giải hàng loạt bằng chứng về các yếu tố quyết định nguyên nhân của sức khỏe con người đang giảm dần. Các nhà thực hành và nghiên cứu y tế công cộng phải hiểu những hạn chế của những phương pháp đó và cam kết tìm hiểu những phương pháp mới mang lại nếu chúng trở thành những hướng dẫn khoa học đáng tin cậy cho sức khỏe của các thế hệ tương lai.
+
+## Tham khảo
+
+[@westreich2020]
+
+There is a rich and growing literature on causal inference and causal effect estimation (Greenland, 2017; Hernán & Robins, 2019). Here, our goal is a brief introduction to concepts, terms, and notation. Many concepts introduced here will be developed further in subsequent chapters. For example, we introduce the idea of confounding in this chapter, but expand on that concept in discussing randomized trials (in Chapter 5) and observational cohort studies (Chapter 6).
+
+In this chapter, we discuss elements of causal inference, causal effect estimation, systematic error, and related concepts. Along the way, we will discuss the circumstances under which we can interpret the measures of association discussed in the previous chapter and estimates of those measures, as measures and estimates of causal effects. As noted in the Acknowledgements, this Chapter in particular owes a particular debt of intellectual influence to numerous key scientists cited below. Hopefully, the citations throughout the Chapter reflect this debt; if not, however, I want to be clear that in this Chapter more than others I am standing on the shoulders of numerous others.
+
+### EPIDEMIOLOGIC PARADIGMS: DESCRIPTIVE, PREDICTIVE, CAUSAL
+
+Epidemiology is the core science of public health, and public health is the field
+
+dedicated to intervening to improve health at the population level. Of course, we
+
+only want to intervene on factors which are causal: to intervene on noncausal
+
+exposures will not change health (or, at least, not in the way we think). For example: drinking alcohol can increase risk of car accidents, while drinking coffee
+
+generally does not. But if it was true that people who drink alcohol are more likely
+
+than others to drink coffee, we might observe an association between drinking
+
+coffee and increased risk of car accidents---an association actually due to the association of alcohol with both coffee consumption and risk of car accidents. An
+
+observed association between coffee consumption and risk of car accidents may
+
+help us predict who is likely to be in a car accident (coffee drinkers); but, in this
+
+case, using that information as a reason to persuade people to stop drinking coffee
+
+(i.e., to intervene on coffee consumption) in an effort to prevent car accidents is
+
+clearly misguided because there is no causal effect of coffee on accident risk.
+
+A chief concern of epidemiology, therefore, is estimating causal effects: understanding the impact of exposure to some factor or treatment on health outcomes.
+
+However, there are two other epidemiologic paradigms which we will address in
+
+this book: descriptive and predictive epidemiology. Both of these are addressed
+
+in more depth in Chapter 4, but we discuss them briefly here because doing so
+
+helps delineate what is meant by causal epidemiology. Descriptive epidemiology
+
+is concerned with communicating the observed world as it is---for example, in
+
+characterizing the prevalence of some disease in the population. Whereas predictive epidemiology is concerned with diagnostic testing (given your characteristics
+
+or test results, are you likely to have a particular disease which is not directly observable?) and prognostics (given your characteristics, are you likely to acquire
+
+a particular disease? Given your characteristics and your disease, how will your
+
+health evolve in the next months or years?). The borders of these paradigms are
+
+fuzzy, of course: diagnostic testing can be seen as a form of description of the world.
+
+The borders of these paradigms are fuzzy, of course: for example, diagnostic
+
+testing can be seen as a form of description of the world. Both descriptive and
+
+predictive epidemiology are important to public health: descriptive epidemiology,
+
+often in the form of disease surveillance efforts (Chapter 4), tells us how prevalent
+
+a particular disease might be and thus helps us prioritize resources. Predictive epidemiology may help patients understand whether they have a disease or how their
+
+disease may progress over time (arguably the domain of clinical epidemiology),
+
+but it may also help inform prevention efforts by forecasting future disease burden.
+
+Again, we go into more depth on both these paradigms in the next chapter: here,
+
+we concern ourselves chiefly with identification and estimation of causal effects.
+
+### COUNTERFACTUAL THINKING AND POTENTIAL OUTCOMES
+
+Consider Jimmy, who is driving his car on the freeway. Jimmy gets a text message, so he picks up his phone to read it and he nearly immediately gets into an
+
+accident. We might reasonably ask, "Did reading the text message cause Jimmy's
+
+accident?" But what is it that we mean---really mean---when we ask this question?
+
+What we mean is often something like the following: "What if Jimmy had not
+
+read the text message: would he, nonetheless, still have gotten into the accident?"
+
+When we ask that question, we just as often have in our heads this set of responses:
+
+If Jimmy would still have gotten into the accident even if he had not read the
+
+text message, then reading the text message did not cause his accident.
+
+But if Jimmy would not have gotten into the accident had he not read the
+
+text message, then reading that text message did cause his accident.
+
+That what-if question, a kind of experiment we run in our own head, captures
+
+the essence of a counterfactual approach to causality. We compare what factually happened (Jimmy read the text and got into a car accident) with what would have happened if, counter to fact, had Jimmy not read the text. This approach---
+
+sometimes called "but-for" (or sine qua non) causality in the law---is closely related to potential outcomes, words which are often used synonymously with
+
+counterfactuals.
+
+To help us think clearly through these ideas, we introduce some simple notation. We consider a two-category exposure X, for example "current smoking"
+
+compared with "no current smoking." Alternatively, we can think of X as a treatment chosen by a patient or assigned in a randomized trial, such as "assigned to
+
+receive an influenza immunization" compared with "assigned to receive a placebo
+
+injection." In general we will consider X = 1 to indicate the "exposed" or "treated"
+
+category (e.g., exposed to current smoking or assignment to immunization) and
+
+X = 0 to indicate "unexposed" or "untreated."
+
+We consider also a two-category outcome Y, such as "had a heart attack
+
+within 1 year" compared with "did not have a heart attack within 1 year" or "was
+
+hospitalized within 30 days" compared with "was not hospitalized within 30 days"
+
+or "died within 10 years" compared with "alive at the end of 10 years." In general we will consider Y = 1 to indicate "had a poor health outcome" (e.g., had a
+
+heart attack within 1 year) and Y = 0 to indicate "did not have a poor health outcome" (e.g., did not have a heart attack within 1 year). Both X and Y are specific
+
+to individuals, so both may be subscripted with i to indicate which individual is
+
+being considered: i can range from 1 to n or 1 to N, where n (N) is often used to
+
+indicate the number of individuals in the study (population).
+
+As in previous chapters, we make several simplifying assumptions about risks
+
+and related measures. In particular, we assume that the time period over which
+
+study participants were followed is fixed and follow-up is complete (no one
+
+disappears, such that we do not record their outcome status). We also assume no
+
+competing risks, that no other events occurred which prevent the outcome of interest from occurring: for example, we assume that hospitalization within 30 days
+
+was not prevented by a study participant's death. In some cases we will leave the
+
+time period in which the outcome must have occurred implicit, although it is
+
+generally necessary to state it (see Chapters 1 and 2). Such assumptions are not
+
+necessary and can be relaxed under some circumstances.
+
+#### An Example
+
+Now consider an experiment in which we flip a coin to determine the treatment
+
+(say, an active drug or a placebo) to which an individual is assigned. In particular,
+
+suppose we wish to randomize individuals who have just suffered a first heart attack to receive either a single dose of a new, long-acting drug or a single dose of a
+
+placebo; we will then follow all individuals for a year to assess the risk of death in
+
+each treatment group. Consider one participant in this randomized trial, Sarah,
+
+who adheres to the treatment to which she is assigned in the trial.
+
+Before we flip the coin to assign Sarah to one arm of the trial or another, Sarah
+
+has two potential outcomes. There is her potential outcome under assignment to
+
+exposure X = 1: the outcome Sarah would experience if the coin comes up heads and she is assigned to receive the active drug. And there is her potential outcome
+
+under assignment to exposure X = 0: the outcome Sarah would experience if the
+
+coin comes up tails and she is assigned to receive the placebo.1 We designate these
+
+potential outcomes Yx = 1 and Yx = 0, respectively. Both of these potential outcomes
+
+are mathematical abstractions; we may get to observe the value of one of these
+
+potential outcomes in reality, but not more than one. Potential outcomes were
+
+first described by Neyman in 1923 (1923/1990) and then popularized by Rubin in
+
+1974 and thereafter.
+
+Sarah has two potential outcomes---and each potential outcome has two possible
+
+values: at the end of the year of follow-up, she might be alive or dead. Specifically,
+
+if she is assigned the active drug, then, by the end of the year, she may have died
+
+(Yx = 1 = 1) or not died (Yx = 1 = 0); likewise, if she is assigned the placebo, by the
+
+end of the year she may have died (Yx = 0 = 1) or not died (Yx = 0 = 0). Note that in
+
+the case of an exposure (or treatment) with more than two categories, or which is
+
+continuous, there are more than two potential outcomes for each individual. If the
+
+outcome is continuous, there are more than two possible outcome values.
+
+After we flip the coin, Sarah is assigned to one of the two possible treatments: active drug or placebo. Suppose the coin comes up heads, and so Sarah's exposure
+
+is set to X = 1. We then follow Sarah for a year and measure her actual outcome.
+
+At this point, we can safely assume that her factual outcome is equal to her potential outcome under X = 1, specifically Yx = 1. Her potential outcome under X = 0,
+
+however, will never and can never be known: Yx = 0 has become counterfactual---
+
+indeed, it became counterfactual at the moment of treatment assignment. While
+
+Sarah's potential outcome under X = 1 has become factual, her potential outcome
+
+under X = 0 remains counter to fact: she was not (in fact) assigned to X = 0, and
+
+so Yx = 0 remains unknown. This illustrates a subtle difference in usage between
+
+potential outcomes and counterfactuals. Again, numerous investigators use these
+
+terms interchangeably, typically without introducing confusion.
+
+#### Individual Causal Effects
+
+Now that we have introduced the preceding notation and ideas, we can define the
+
+individual causal effect of X for Sarah as the difference between (i) her potential
+
+outcome under assignment to X = 1 and (ii) her potential outcome under assignment to X = 0, or Yx = 1 − Yx = 0. In Sarah's case, suppose that, after assignment to
+
+the active drug, we discover that her outcome under that exposure was to live (i.e.,
+
+that Yx = 1 = 0); and suppose we also know that had she been assigned to the placebo she would have died (i.e., that Yx = 0 = 1). Then her individual causal effect is
+
+Yx = 1 − Yx = 0 = 0 − 1 = −1: the causal effect of treatment in Sarah is −1, the negative sign indicating that taking the active drug will prevent (rather than cause) the
+
+death she would have suffered had she (counter-to-fact) taken the placebo.
+
+We have now defined an individual causal effect, but there is a problem with this
+
+definition. One of the two components in Sarah's causal effect (Yx = 0) was counterfactual, and what is counterfactual was not observed in reality. Which means
+
+that---except in made-up data---Sarah's individual causal effect can never be known
+
+for sure. We can guess at an individual causal effect under strong assumptions---
+
+with our previous example of Jimmy who checked his text messages at an inopportune time, many people would feel comfortable betting on the idea that
+
+checking his text messages caused his accident. But we cannot know for sure because at least one component of every individual causal effect is counterfactual
+
+and thus missing. It is for this reason that it is sometimes said that the "fundamental problem of causal inference" is missing data (Holland, 1986).
+
+#### Average Causal Effects
+
+We cannot (in general) assess individual causal effects, but we can assess average
+
+causal effects under additional conditions (see the later discussion in the section
+
+"Causal Identification Conditions"). Average causal effects (or population average
+
+causal effects) are the average differences in outcomes comparing two treatments
+
+or exposures at the population level.
+
+Continuing with our example of a trial of a new long-acting drug versus placebo to prevent death within 1 year: like Sarah, each person in that study population has two potential outcomes, one under each treatment assignment, and each
+
+potential outcome could take on one of two possible values, alive or dead at the
+
+end of 1 year. In the whole population of N people, we can describe the number of
+
+people with each combination of potential outcomes and values in a 2 × 2 table,
+
+as shown in Table 3.1.
+
+In Table 3.1, A counts the number of people for whom the potential outcomes
+
+under both X = 0 and X = 1 are equal to 1: these are people who will get the outcome (Y = 1) regardless of treatment (X = 1 or X = 0). Since the outcome is bad, we
+
+sometimes designate these individuals "doomed" to get the outcome (see Box 3.1).
+
+Who might such people be? Consider a person who dies in a car accident a week
+
+after the trial begins and so is counted as an outcome in this trial: it is reasonable
+
+to assume that the car accident would have occurred and the individual would
+
+have died regardless of whether that person had received active drug or placebo.
+
+Similarly, D counts the number of people for whom both potential outcomes are equal to 0: these people are "immune" from experiencing the outcome because
+
+no matter the exposure they will not experience the outcome. B represents the
+
+number of people who will experience the outcome when unexposed but not
+
+when exposed and so those who are "protected" from the harmful outcome by
+
+their exposure, and C represents the number of people who experience the outcome only when exposed and are therefore "harmed" by their exposure.
+
+In Table 3.1, an average causal effect could be calculated as the difference between (i) the proportion of people in the entire population who would experience
+
+the outcome under exposure (X = 1), which is (A + C)/(A + B + C + D), and (ii)
+
+the proportion of people in the same population who would experience the outcome under non-exposure (X = 0), which is (A + B)/(A + B + C + D). Using this
+
+information, we can calculate the average causal risk difference as:
+
+A C
+
+A B C D
+
+A B
+
+A B C D
+
+\+
+
+\+ + +
+
+−
+
+\+
+
+\+ + +
+
+which can be rewritten in terms of probability (Pr) of the outcomes as
+
+Pr( ) Y Y x x = = 1 0 = 1 1 − = Pr( )
+
+or more simply as
+
+Pr( ) Y Y 1 0 − Pr( ).
+
+This is, simply, the difference between the risk of the outcome if everyone in the
+
+population were assigned X = 1 and the risk of the outcome if everyone in the
+
+population were assigned X = 0. We could further generalize this measure by expressing it in terms of expectations rather than probabilities (i.e., E(Y Y 1 0 ) E − ( )),
+
+which is a difference measure for any Y, including continuous-valued health
+
+outcomes such as weight or forced expiratory volume in 1 second.
+
+The average causal risk ratio can likewise be written as
+
+Pr Pr
+
+.
+
+Y Y
+
+Y Y
+
+x x
+
+= =
+
+=( )=
+
+( ) =
+
+( )
+
+( )
+
+1 0
+
+1 0
+
+1 1
+
+Pr Pr
+
+This 2 × 2 table of potential outcomes was built out of individual data---an
+
+individual's assignment to group A, B, C, or D depends on information about
+
+the joint distribution of their potential outcomes, which we have already noted is
+
+unavailable to us. Recall that, in Chapter 2, we discussed how to estimate a risk
+
+difference and risk ratio from observed data. In the next section, we address some
+
+conditions under which we can interpret such measures of association, estimated
+
+from real data, as estimates of causal effects.
+
+### CAUSAL IDENTIFICATION CONDITIONS
+
+As noted earlier, we cannot identify all potential outcomes because, at most, only
+
+one potential outcome will ever be factually realized. However, we can assess
+
+causal effects in real data if we assume (hopefully with good reason) that we have
+
+met several causal identification conditions. Specifically, then, our goal is to understand what it takes to interpret an associational risk difference (or risk ratio,
+
+etc.) such as
+
+Pr( ) Y X = = 1 1 \| \| − = Pr( ) Y X 1 0 = ,
+
+as an average causal risk difference,
+
+Pr( ) Y Y x x = = 1 0 = 1 1 − = Pr( ).
+
+The causal identification conditions have received extensive treatments elsewhere
+
+(Greenland, 2017; Hernán & Robins, 2019). Here, we go over four key conditions
+
+which together are sufficient for identification of causal effects in real data. That is,
+
+when all four conditions are met, we can be reasonably assured that our measured
+
+association estimates the causal effect of interest. The key conditions we describe
+
+here are temporality, causal consistency, exchangeability, and no measurement
+
+error. We will also discuss conditional exchangeability with positivity as a substitute for the simpler exchangeability.
+
+Again, we emphasize that this set of conditions is sufficient; it is not necessary
+
+for all causal effect estimation. There are other sufficient sets of conditions as well,
+
+such as those used for instrumental variables (see Chapter 8). In the Appendix to this chapter, we show how these four causal identification conditions help us
+
+make a causal interpretation from an association (i.e., considering the two equations immediately above, how we move from the first equation to the second).
+
+Before we discuss these conditions, however, we must address an additional, vital
+
+condition, or assumption, in the estimation of causal effects: identification of the
+
+target population.
+
+#### Target Populations and Study Samples
+
+Again, our goal here is causal effect estimation from data. But, thus far in this
+
+chapter, we have not considered in which population we want to estimate the
+
+causal effect. The target population is "the group of people about which our scientific or public-health question asks, and therefore for which we want to estimate the causal effect of an exposure," according to Maldonado and Greenland
+
+(2002). This group is also frequently described as a source or base population
+
+(Porta, 2014).2 When we do not explicitly discuss a target, or source, population,
+
+it may seem reasonable to assume that the target population is the data we are
+
+analyzing, which we call the study sample. In the real world, this is very often
+
+not true.
+
+Briefly, consider a study of 1,000 people of how a new drug agent treats a disease compared to a placebo. The goal of such a study is almost never to estimate
+
+a causal effect which only applies to those 1,000 people. Rather, the goal (quite
+
+often) is to obtain information that applies to all those individuals who might
+
+be eligible to use the new drug agent under study. Likewise, we might perform a
+
+study in North Carolina, but want to know how those results apply to an external
+
+target population (people in South Carolina). We will discuss target populations
+
+further in Chapter 5 and Chapter 9. For the remainder of this chapter we assume
+
+that our target population is exactly the data in front of us, that is that we wish to
+
+estimate causal effects only in our study sample.
+
+#### Causal Identification Conditions
+
+Now, we discuss the causal identification conditions. It is unlikely that these
+
+causal identification conditions will be fully transparent to you the first time they
+
+are encountered: repeated exposure---to this chapter, to other sources (Hernán
+
+& Robins, 2019), and also to the way in which these concepts arise again in subsequent chapters on the study designs---is the surest route to increased understanding. So, don't worry if the causal identification conditions are not entirely
+
+clear the first time you read them.
+
+#### Temporality
+
+Temporality is the condition that things which are causes precede their purported
+
+effects in time. If we wish to assess the effect of aspirin use on risk of heart attack,
+
+we must be sure that study participants' use of aspirin occurred prior to time of
+
+heart attack. Temporality might be violated when (for example) a study subject
+
+already has the outcome at the time of exposure---for example, a participant has
+
+incipient liver cancer at the start of a randomized trial in which the outcome is
+
+liver cancer. Reverse causality is a particular manifestation of this phenomenon
+
+in which the (undiagnosed) existence of the outcome affects an individual's exposure status; for example, in a study of the effect of smoking on lung disease
+
+(e.g., chronic obstructive pulmonary disease \[COPD\]), this might occur if early
+
+symptoms of as-yet-undiagnosed COPD lead an individual to stop smoking.
+
+#### Causal Consistency
+
+Causal consistency, or sometimes simply consistency, is the idea that among people
+
+who were exposed, their outcome was no different than it would have been if they
+
+had been assigned that exposure---and the same is true for the unexposed. This
+
+idea is key in interpreting the observed outcomes as the potential outcomes: in
+
+the chapter Appendix, we show how the application of causal consistency allows
+
+us to move one step from an association to an estimate of causal effect (Hernán
+
+& Robins, 2019).
+
+When can we assume that this condition is true? One crucial aspect of consistency relates to the question of whether there is meaningful variation in the
+
+observed exposure or treatment. Suppose we want to know the effect of daily aspirin on risk of heart attack. For the exposure of "take aspirin daily," we may view
+
+dose of aspirin (e.g., 81 mg vs. 162 mg) as meaningful variation in the exposure
+
+in that we could imagine a substantially different causal effect for each dose. At
+
+the same time, we might view the issue of whether the aspirin is taken in the
+
+early morning versus late at night as irrelevant; however, if we discovered that
+
+the physiologic effects of aspirin differed substantially by whether you went to
+
+sleep immediately after taking the aspirin or not, then the latter variation would
+
+be considered meaningful. Consistency, then, is in part the assumption that any
+
+variations in the treatment or exposure being studied are irrelevant to the causal
+
+mechanism being studied: an idea often summarized as treatment variation
+
+irrelevance.
+
+Questions of treatment variation irrelevance---of what constitutes a "meaningful" variation in treatment---is decided on a per-study, per-exposure basis,
+
+often after discussion among experts in the field. That said, this can become a
+
+particular issue when considering health-relevant demographic attributes such
+
+as race, sex, gender, or socioeconomic status. While strong arguments can (and
+
+have!) been made that all of these complex factors can be regarded as causes of
+
+disease, what precisely "cause" means is difficult because each of these words
+
+can mean various things depending on both speaker and context. For example, investigators often explore biological sex as a "cause" when they are in fact more
+
+interested in effects due to gender or discrimination based on gender presentation
+
+(which is not the same as sex), or due to hormone levels (which vary with sex but
+
+also with numerous other factors).
+
+Likewise, numerous studies in the literature examine differences in health
+
+outcomes by self-reported racial identity and then attribute part or all those
+
+differences to genetic differences between the races. However, genetic differences
+
+between races are extremely minor, and it is almost never the case that we can
+
+reliably attribute observed differences in health status to such minor genetic
+
+differences (Cooper, 2013; Kaufman, Cooper, & McGee, 1997).
+
+One particular aspect of treatment variation worth calling out is interference,
+
+also called dependent happenings or spillover effects. Interference is a situation in
+
+which my exposure has an effect on your potential outcome. Interference may be
+
+most easily understood in an infectious diseases setting: consider a treatment of
+
+an influenza vaccine. If I am exposed to the influenza vaccine, this can easily have
+
+an effect on my daughter's risk of acquiring influenza independent of my daughter's
+
+vaccine status. This is because my being immunized may decrease her exposure
+
+to and thus risk of acquiring influenza. Indeed, the idea of herd immunity---that
+
+when sufficient numbers of people are vaccinated against a disease in a population, the nonvaccinated members of that population will be protected as well---is
+
+based precisely on the existence of interference effects of this type. We can therefore expect the observed effects of this vaccine in a population to vary with the
+
+vaccine status of those around them: a form of treatment variation which seems
+
+highly relevant. While interference is a serious consideration when it arises, we
+
+frequently assume no interference as part of our consistency assumption and in
+
+noninfectious diseases settings this is often a reasonable assumption. However,
+
+there may be considerable spillover effects in infectious diseases settings, as well
+
+as with certain social phenomena.
+
+There is at least one other use of the word "consistency" worth mentioning in
+
+this context. In statistics and biostatistics, a consistent estimator of a particular
+
+quantity is one which converges to the true value of that quantity as the number
+
+of data points increases: this is distinct from causal consistency. Somewhat related, "no interference" is considered by some investigators to be equivalent to
+
+or a subset of the stable unit treatment value assumption (SUTVA; see Hernán &
+
+Robins, 2019, for a discussion). For discussion of the relation of consistency to the
+
+notion of "well-defined interventions" see Box 3.2.
+
+#### Exchangeability
+
+Exchangeability is informally the condition that study participants who are
+
+exposed (or treated) have the same average pre-exposure (or pre-treatment) risk
+
+of the outcome as study participants who are unexposed (or untreated). Here,
+
+pre-exposure (pre-treatment) means "aside from any risk conferred by the exposure (treatment) itself." An alternate formulation of the same idea is that, if there
+
+were no causal effect of the treatment on anyone in the study, would the treated
+
+and untreated groups have the same average risk of the outcome? For example,
+
+in a study of the impact of a new drug on the outcome of heart attack, 40-yearolds would not (broadly speaking) be considered exchangeable with 60-year-olds
+
+because risk of heart attack increases with age---quite aside from the effects of
+
+the drug under study. Another informal way to state this condition is that if exchangeability holds, then the risk of the exposed can stand in for the risk of the
+
+unexposed if---counter to fact---the unexposed had been exposed; and, similarly,
+
+the risk of the unexposed can stand in for the risk of the exposed if---counter to
+
+fact---the exposed had been unexposed.
+
+Formally, the issue of exchangeability is about the statistical independence between the potential outcomes and the exposure or treatment actually received by
+
+participants in a study, which is typically stated as Y X x  for all values of x. For
+
+dichotomous Y and X this can also be written as Pr( ) Y Y x x \| 1 X X = = = Pr( \| 0),
+
+which states that the risk of Y for a set level of X (specifically, x) is the same
+
+among those observed to be treated and those observed to be untreated (Hernán
+
+& Robins, 2019). In the chapter Appendix, we show how the application of exchangeability, as with causal consistency, allows us to take an additional step from
+
+an association to an estimate of causal effect.
+
+When does exchangeability hold, or not hold? While we will discuss this issue at
+
+more length in the later section on systematic error and in subsequent chapters, it
+
+is clear that, in a large population, random assignment of treatment (e.g., flipping a
+
+coin to decide who receives treatment and who does not) will on average produce
+
+exchangeable samples. This is because over the long run, for every 60-year-old who
+
+is treated there will be a 60-year-old who is not, and, likewise, for every 40-year-old
+
+who is treated there will be a 40-year-old who is not treated. So, on average, the
+
+proportions of 40- and 60-year-olds will be the same in the two groups, and so---
+
+aside from any effect of the treatment itself---the average risk of the outcome will
+
+be the same in the two groups as well. Lack of exchangeability, on the other hand,
+
+is generally due to the systematic errors confounding and selection bias and is often
+
+what people mean when they repeat the statement that "correlation is not causation"---although we are quick to remind you that correlation is not not-causation, as
+
+well. These systematic errors are discussed in greater depth later.
+
+Again, we are satisfied that the exchangeability assumption is met sufficiently to
+
+estimate an average causal effect if pre-treatment risks (i.e., the potential outcomes
+
+in absence of exposure) in our two comparison groups are the same on average.
+
+Note that individual causal effects---though we cannot estimate them---would
+
+likewise meet the exchangeability condition as well, in that any individual at a
+
+particular moment in time has the same baseline risk of an outcome whether they
+
+are treated or untreated immediately thereafter.
+
+#### Conditional Exchangeability
+
+In observational studies, the reasons that individuals wind up exposed (either by
+
+choice or by circumstance) frequently involve exactly those factors which also
+
+affect the affect risk of the outcome. Thus, in observational settings, the average pre-exposure risk among those who are exposed is not (in general) the same as
+
+the average pre-exposure risk among those who are not exposed. For example, as
+
+earlier, if 40-year-olds are more likely to start smoking than 60-year-olds, then the
+
+smokers are not exchangeable with the nonsmokers (and we would say that the
+
+effects of smoking are "confounded by age," see later discussion). Here, when average pre-treatment risk of the outcome is not the same across exposure groups, we
+
+must try to deal analytically with variables like age. If we can meet exchangeability
+
+after accounting for (conditioning on) additional variables such as age, we call
+
+this conditional exchangeability. The formal statement of conditional exchangeability is only slightly different from the formal statement of exchangeability noted
+
+earlier: specifically, Y X x  \| Z for all values of x, where Z is all relevant covariates
+
+(in our example in this paragraph, age; see Hernán & Robins, 2019).
+
+To explain further: recall from above that exchangeability implies that the risk of
+
+the exposed can stand in for the risk of the unexposed, if---counter to fact---the unexposed had been exposed (and vice versa). Conditional exchangeability says similarly
+
+that the risk of the exposed can stand in for the risk of the unexposed, conditional on
+
+certain additional variables, if---counter to fact---the unexposed had been exposed
+
+(and vice versa). Back to our populations of 40-year-olds and 60-year-olds, it might
+
+be that the risk of exposed 40-year-olds can stand in for the risk of unexposed 40-
+
+year-olds, had those unexposed 40-year-olds in fact been exposed and, likewise,
+
+that the risk of exposed 60-year-olds can stand in for the risk of unexposed 60-yearolds had those unexposed 60-year-olds in fact been exposed and so on. The identification and choice of variables for conditional exchangeability based on causal
+
+diagrams will be explained later, in Section 3.4 on causal diagrams and confounding.
+
+#### Positivity
+
+But what if there were no exposed 60-year-olds in our study---if the only exposed
+
+people were 40-year-olds? Conditional exchangeability introduces new variables
+
+to our system, and the need to deal with other variables introduces another condition to be met, namely positivity. Informally, positivity is the condition that
+
+all subjects must have a non-zero chance of receiving either treatment under
+
+study: in this case, 40-year-olds must have a nonzero chance of both initiating
+
+and not initiating smoking, and the same must be true for 60-year-olds. Positivity
+
+is about the relationship of the exposure to the variables required for conditional
+
+exchangeability---thus, once we have chosen the set of variables necessary for conditional exchangeability, the outcome is no longer part of the discussion of positivity. The close linkage between these two conditions sometimes leads us to refer
+
+to them jointly as conditional exchangeability with positivity.
+
+The formal statement of positivity condition is Pr(X x = = \| 0 Z z) \> , where Z
+
+is all covariates used for conditional exchangeability, and z is all combinations
+
+of those covariates present in the data under study (Hernán & Robins, 2019).
+
+Thus, there must be a greater than zero probability of any treatment or exposure
+
+condition for all observed combinations of the covariates relevant to conditional
+
+exchangeability.
+
+Broadly, there are two essential ways in which we might lack positivity: structural (or deterministic) and stochastic. In structural nonpositivity, there is a segment of the population under study which has no opportunity for exposure for
+
+structural (e.g., physical) reasons: if we are asking about the effect of hysterectomy
+
+on some later health outcome, then study subjects who lack a uterus cannot experience the exposure. In this case, the best course is likely to exclude such subjects
+
+from an estimate of causal effect---there is no reason to ask the question of the impact of a hysterectomy in these subjects in the first place. Stochastic nonpositivity
+
+is a data, rather than structural, phenomenon. For example, we might have a population in which by chance no one under the age of 50 is a smoker, and everyone
+
+over the age of 50 is a nonsmoker. While there is no physiologic barrier to being
+
+a smoker under age 50, in such a population it becomes difficult (though not impossible) to separate effects of smoking and age.
+
+#### No Measurement Error
+
+No measurement error is not broadly discussed as a causal identification condition, but it is worth noting here (and it is useful in the chapter Appendix as well).
+
+If the exposure or outcome (or covariates required for conditional exchangeability) is measured with error, we sometimes cannot estimate a valid causal effect even under otherwise ideal conditions---for example, a perfectly conducted
+
+randomized trial that ensured temporality, unconditional exchangeability, and
+
+consistency (see Chapter 5). We therefore regard lack of measurement error as a
+
+helpful condition for causal effect estimation, although there are rare cases when
+
+measurement error can actually be helpful (see quasi-experiments in Chapter 6).
+
+We add briefly that one can view treatment variation irrelevance (consistency) as
+
+an issue of measurement error. If the exposure is defined as "takes any amount
+
+of aspirin daily," then both 81 mg and 162 mg doses of aspirin are valid. But if
+
+the exposure of interest is really "one 81 mg aspirin daily," then the classification of 162 mg of daily aspirin as "exposed" is in fact misclassification, a type of
+
+measurement error
+
+#### Summary
+
+The preceding conditions---temporality, consistency (primarily treatment variation irrelevance, including no interference), exchangeability (or alternatively conditional exchangeability with positivity), and no measurement error---are useful,
+
+though not strictly necessary (Greenland, 2017), for nonparametric identification of causal effects from data.3 Practical considerations, such as the "curse of
+
+dimensionality," often force us to make additional assumptions encoded in statistical models to estimate effects. The chief such assumption is that such models are correctly specified (Keil et al., 2018). Machine learning approaches can help
+
+us ensure correct model specification with far fewer assumptions, though they
+
+may introduce additional statistical issues (Naimi & Balzer, 2018; van der Laan
+
+& Rose, 2011).
+
+When treatment is randomized, it is often reasonable to assume that many or
+
+all of these conditions are met, for reasons we will discuss in Chapter 5. In such a
+
+setting, one can usually estimate causal effects for the study sample from a pair of
+
+survival curves or a simple 2 × 2 table and be reasonably confident in the validity
+
+of those estimates. However, when treatment is not randomized, we often do not
+
+know whether we have met these conditions---perhaps most centrally whether
+
+we have met conditional exchangeability. In such settings, if we wish to interpret measures of association estimated from data as causal effect estimates, we
+
+must assume that these conditions hold: in this case, we would assume that we
+
+have conditional exchangeability given certain variables. One way to be transparent about such assumptions is to encode some of them in a diagram of your
+
+hypothesized causal system.
+
+### CAUSAL DIAGRAMS
+
+Causal diagrams were introduced into mainstream epidemiologic literature in
+
+1999, in a paper by Greenland, Pearl, and Robins (1999) and are a useful tool for
+
+thinking through questions of systematic error in a study, particularly questions
+
+of (conditional) exchangeability. Here, we concentrate on a particular type of
+
+causal diagram called causal directed acyclic graphs (alternatively, DAGs or causal
+
+DAGs), although single-world intervention graphs (SWIGs) are also a useful technology for causal effect estimation and additionally map more directly onto potential outcomes than do causal DAGs. In this section we introduce DAGs and
+
+explain briefly how to use them to identify conditional exchangeability.
+
+DAGs are simply a collection of nodes (representing variables) and singleheaded arrows connecting those nodes (directed arrows connecting nodes into
+
+a graph), where there are no cycles of arrows (you cannot start at a node, follow
+
+arrows, and return to the same node). Arrows indicate causal relationships: an
+
+arrow from X to Y indicates that X is a cause of Y (and therefore that changing X
+
+may change Y). DAGs explicitly forbid double-headed arrows.4
+
+For example, if we wish to know the effect of X on Y, we would start by drawing
+
+a node labeled X, a node labeled Y, and a single-headed arrow from X to Y
+
+indicating the possibility of a causal effect of X on Y (specifically, the possibility
+
+that intervening to change X will result in a change in Y; Figure 3.1, left). In most
+
+cases, we understand the nodes X and Y to be random variables representing
+
+values taken on by an individual; thus X and Y in Figure 3.1 could both have an i
+
+subscript indicating that they are individual variables. However, such a subscript
+
+is typically omitted.
+
+From this base, we create other nodes for other variables we believe to be relevant
+
+to the X→Y relationship (see Box 3.3): for example, we could include a joint cause
+
+of both X and Y and call it Z. We draw a node for Z and then draw single-headed
+
+arrows from Z to X (Z is a cause of X) and from Z to Y (Z is a cause of Y) (Figure
+
+3.1, center). We might expand that figure to include an additional possible pathway
+
+between X and Y that includes a new variable, M, and finally add in the idea that X
+
+and Y both affect (i.e., cause) some additional variable, C (Figure 3.1, right).
+
+We now have a rich enough diagram (Figure 3.1, right) to introduce some terminology: Z in this causal DAG is generally considered a confounder of the X→Y relationship and compromises exchangeability if we wish to estimate the effect of
+
+X on Y. Specifically, Z is a confounder because it sits on an open backdoor path
+
+(see Section 3.5.1).
+
+C is called a collider on the path X→C←Y because two arrowheads collide (→←)
+
+in node C; we will explain colliders later, but they should be sharply distinguished
+
+from confounders.
+
+Finally, M is called a mediator on the path X→M→Y. M mediates the X→Y
+
+relationship, in that part of the effect of X on Y flows through M (follow the
+
+arrows!). Understanding that M is a mediator of the X→Y relationship allows us
+
+to distinguish several types of causal effects. The total effect of X on Y comprises
+
+two pathways: the pathway X→Y and the pathway X→M→Y. The direct effect of
+
+X on Y not mediated by M is the first of these alone; an indirect effect of X on
+
+Y through M is the second alone (although we do not often frame effects this
+
+way). Identification of a direct effect therefore requires us to propose one or more
+
+factors that the effect of exposure is mediated by, in this case M. There are entire
+
+textbooks (VanderWeele, 2015) dealing with mediation of causal effects; we only
+
+touch on basics here.
+
+It is important to emphasize several points. First, the absence of an arrow between two nodes on a DAG corresponds to a strong assumption that there exists
+
+no causal relationship between those two nodes for any individual. This condition
+
+is called the sharp causal null and is a stronger assumption than the average causal
+
+null. An average null effect could result from a cancelling of positive and negative
+
+individual effects. In Figure 3.1 (right), for example, the absence of an arrow from
+
+Z to M is a strong assumption that Z does not affect M for any individual. Since it
+
+is frequently difficult to recognize things (in this case, arrows) that are absent, this
+
+represents a substantial cognitive tripping hazard with the use of DAGs.
+
+Second, DAGs are scale-independent: the same DAG applies whether you are
+
+considering a risk difference or a risk ratio, for example. And, as such, DAGs are
+
+of somewhat limited utility when considering effect measure modification (see
+
+Chapter 5 and Chapter 6).
+
+Finally, we noted earlier that no causal loops are allowed: this is to preserve
+
+temporality in assessment of causal effects from a DAG. For example, it is plausible that weight affects a decision to start smoking and that initiation of smoking
+
+may then affect future weight. But if this causal chain is expressed as a diagram
+
+like Figure 3.2 (upper panel), in which same variable (Weight) appears twice,
+
+then the causal diagram appears to violate temporality. Weight is measured at a
+
+point in time, and it is not possible for future smoking to affect weight in the past.
+
+DAGs can address this problem by time-indexing nodes: thus, the lower panel of
+
+Figure 3.2 expresses the underlying ideas with greater clarity (and without an implied causal loop).
+
+Next we describe types of systematic error, frequently using DAGs to illustrate
+
+these concepts. This might be a good moment for you to refresh your understanding of the differences between systematic and random error (Chapter 1).
+
+### THE VARIETIES OF SYSTEMATIC ERROR
+
+In this book, we divide the types of systematic error into four types: confounding
+
+bias, missing data bias, selection bias, and measurement error (or information bias;
+
+misclassification is a special case of this). There are certainly ways to quibble with
+
+this taxonomy.5 Nonetheless, we view these categories as useful for introducing
+
+these concepts. We use causal DAGs to illustrate several of these biases and to
+
+expand and illustrate additional concepts. Informally, by "bias" we mean any difference between the true causal effect and the expected value of the causal effect
+
+estimated in our data, where by "expected" we mean "not due to chance alone."
+
+As with the causal identification conditions, it is unlikely that all these ideas
+
+will be fully transparent to you the first time you encounter this material, in part
+
+because these concepts are difficult and may require multiple exposures. Another
+
+factor is that several of these biases---especially confounding---are concepts which
+
+are clarified by comparing their occurrence between study designs. Confounding
+
+in particular will generally not occur in a randomized trial (though this depends
+
+in part on what analysis is performed using trial data; see Chapter 5) but will generally arise in an observational cohort study (see Chapter 6). Likewise, selection
+
+bias may be more understandable after comparing and contrasting observational
+
+cohort studies (again, Chapter 6) with case-control studies (Chapter 7).
+
+Thus, we believe that the best way to learn these concepts is to iterate: read the
+
+following section; read on in the book; and then, when you encounter these ideas
+
+again, circle back to this section (and this chapter as a whole) and refresh yourself on these ideas. Thus, in the remainder of this section, we seek (i) to introduce
+
+these ideas so you will have a basis for understanding these ideas when they arise
+
+later in the work (especially in Chapters 5--7) and (ii) provide a reference for you
+
+to come back to when reading those chapters to clarify these concepts.
+
+#### Confounding Bias
+
+Confounding bias is what is nearly always meant by the statement "correlation is not causation" and is one name for a lack of exchangeability, specifically
+
+nonexchangeability due to the imbalance of (typically) causes of the outcome across levels of the exposure. To be free of confounding bias, the only association
+
+between the exposure and the outcome must be due to the exposure itself, whose
+
+effect we wish to estimate. Confounding variables create such other associations
+
+between the exposure and the outcome: for example, in Figure 3.3, V creates an
+
+association between X and Y which is not the causal effect of X on Y. Such a situation maps neatly to our informal understanding of exchangeability: if V causes
+
+people to be exposed (V→X) and V causes the outcome (V→Y), then the preexposure risk of Y among those with X = 1 is likely to be different from the preexposure risk of Y among those with X = 0.
+
+The classic (but problematic) definition of confounding states that a confounder
+
+is a variable which is (approximately) associated with the exposure and outcome
+
+and not caused by the exposure. This definition leaves room for subtle errors, especially those involving colliders (e.g., M-diagrams; Greenland, 2003). Addressing
+
+confounding---identifying confounders---from the perspective of causal DAGs
+
+solves several problems with more classic definitions of confounding although
+
+not without introducing additional complications.
+
+Using a DAG, we identify the confounding variables---the variables that are
+
+leading to nonexchangeability---in the following steps (Greenland, Robins, &
+
+Pearl, 1999):
+
+1\. Remove all arrows that begin at the exposure.
+
+2\. Identify the backdoor paths: that is, paths which
+
+a\. begin with an arrow into the exposure, and
+
+b\. end with an arrow into the outcome.
+
+3\. For each backdoor path, determine whether the path is open or closed.
+
+Paths are open unless
+
+a\. they contain one or more colliders, and
+
+b\. we have not conditioned on those colliders (see below, and section 3.5.3).
+
+4\. All open backdoor paths are considered confounding paths; all variables
+
+on such paths (except the exposure and outcome) are considered
+
+confounders.
+
+We have now identified all open backdoor paths, and thus confounders, in our
+
+diagram. We then achieve independence of the exposure and the outcome by "controlling" or "adjusting" for confounding variables, thus "closing" those otherwise open paths. What does it mean to control confounding, in practice? We might
+
+mean, for example, "include the confounder in a regression model" or "account
+
+for the confounder using standardization": we return to these ideas later in this
+
+book (Chapter 6). Here, we focus on the decision of which variables we will adjust
+
+for. We add that if we condition on a collider (3b, in the steps above) we open an
+
+otherwise closed path, a concept we explain further below (see Selection Bias).
+
+Consider a few examples. In Figure 3.3, we would begin by removing the
+
+arrow from X to Y. This leaves two backdoor paths, both open (X←V→Y and
+
+X←G→Y): to close all backdoor paths, we would need to control (again, for now
+
+we do not specify how we will do this) for V and G.
+
+In Figure 3.4, removing the X to Y arrow leaves two paths. There is one backdoor path (X←Z→Y) and one closed path containing a collider (X←T→S←Y; remember that S is a collider on this path because the arrowheads from T and Y
+
+"collide" in that node). To close all backdoor paths in Figure 3.4, we would have
+
+to condition on Z, but we can leave the X←T→S←Y path alone, as it closed by the
+
+collider. If we were to condition on S, we would open this path.
+
+Finally, in Figure 3.5, there is a single open path (X←Q→E→Y): to close this
+
+path, we can condition on Q, or on E, or on both Q and E. In this last example,
+
+there are three sufficient sets of covariates \[Q; E; Q and E\]; controlling for any of
+
+these three sets will remove the confounding of the X→Y relationship.
+
+Of critical importance is that we can never know whether a causal DAG has
+
+fully captured the real causal process, including all confounders of the causal relationship we want to estimate. It is always possible that, for a given DAG, there
+
+might be a variable (often designated U for unknown or unmeasured) which (for
+
+example) has arrows into both X and Y and therefore confounds their relationship. If such a U exists, then controlling for confounding based on the DAG will
+
+not deal with all biases of the causal relationship under study. It is in general impossible to rule out the existence of such a variable---except in an intention-totreat analysis of a properly conducted randomized trial (see Chapter 5). Finally, as
+
+a note, we remind you that this is just a very preliminary introduction to DAGs.
+
+We will discuss these methods further later in this book, but the book as a whole is only an introduction to these methods. More details can be found in works by
+
+Hernán and Robins (Hernán & Robins, 2019) and Pearl (1995, 2009).
+
+#### Missing Data
+
+Missing data bias results from lack of complete information on exposure,
+
+outcomes, or covariates in a study. For example, if, in a study of 100 participants,
+
+20 did not have an exposure status recorded, we would describe that situation as
+
+missing exposure data.
+
+Generally, we think of missing data in three main categories: missing completely at random, missing at random, and missing not at random. Missing completely at random (MCAR) data are missing exactly as you think: completely at
+
+random, as if the data which are not missing are a simple random sample of the
+
+full data. If 10% of outcome data are missing completely at random, for example,
+
+it is the same as saying that for each individual we rolled a fair 10-sided die, and, if
+
+we roll a 7, then we replace their outcome with a "missing" indicator. Data might
+
+be missing completely at random if a gust of wind caused a stack of unordered test
+
+results on paper to be blown away, and some sheets of paper were swept into a lake
+
+and destroyed before they could be recovered.
+
+Data which are truly MCAR are rare: more common are data missing at random
+
+(MAR). MAR is a confusing name, sounding too much like MCAR to be clearly
+
+distinguished by the language. MAR indicates data which are missing independent of the missing data itself, conditional on the observed data for each individual. For example, if exposure is fully observed in all participants, and outcome
+
+is missing in 10% of participants who are exposed and 20% of participants who
+
+are unexposed, and missingness does not depend on any other variables, then we
+
+would conclude that outcome data are MAR.
+
+Data missing not at random (MNAR) are missing data which are neither MCAR
+
+nor MAR, and therefore those where the missingness depends on the unobserved
+
+value of the missing variable itself. Age would be MNAR if age were missing more
+
+often in older people than in younger people.
+
+##### Analysis with Missing Data
+
+The most common way of addressing missing data is to perform what is called
+
+a complete case analysis, in which only those observations which have full data
+
+available are analyzed. For example, consider an analysis of the effect of exposure
+
+X on outcome Y controlling for covariates Z1, Z2, and Z3. Complete case analysis would include only those individuals who had no missing data for any of those
+
+five variables.
+
+Such an approach, however, may lead to biased estimates. Under what
+
+circumstances does a complete case analysis result in bias? Broadly, this is a
+
+product not of information structure (e.g., MAR/MNAR distinctions) but of
+
+causal structure. In particular, we can have situations of both MAR and MNAR
+
+in which there is no bias in complete case analysis and also situations of both
+
+MAR and MNAR in which there is bias in complete case analysis. However, since
+
+MCAR data are independent of the outcome (and all other observed variables),
+
+complete case analysis of MCAR data is generally unbiased. (Daniel, Kenward,
+
+Cousens, & De Stavola, 2012).
+
+We demonstrate some of these issues in simple examples, using the three
+
+DAGs in Figure 3.6 and accompanying data in Table 3.2. In Figure 3.6, R = 1
+
+with a box around it indicates that we have restricted analysis to individuals who have no missingness on X or Y (R for response). In the left panel, R is
+
+independent of both X and Y. In Table 3.2, the top 2 × 2 table (labeled Full)
+
+is example data without any missingness, and the second 2 × 2 table (labeled
+
+Left) corresponds to Figure 3.6 (left). In Table 3.2 (Left), 20% of the full table
+
+is missing in every cell, equally: so instead of 200 exposed disease cases, we see
+
+160, and we estimate the same exposure-specific risks (and same risk difference)
+
+as in the Full data.
+
+In the center panel of Figure 3.6, things are more complicated: there is an
+
+open path from R to Y (R←X→Y). The 2 × 2 table in Table 3.2 (Center) shows
+
+missingness which differs by level of X; 50% of those with X = 1 are missing, but
+
+only 20% of those with X = 0. In this table, we see that the exposure-specific risks
+
+are estimated accurately from the data, and therefore we can estimate the correct
+
+risk difference from those exposure-specific risks. This is because the open path
+
+between R and Y is closed conditional on X (see below).
+
+In the right panel of Figure 3.6, we show missingness differential by level of Y,
+
+because Y→R. The last 2 × 2 table in Table 3.2 (Right) shows missingness which
+
+differs by level of Y: 10% of those with Y = 1 are missing, and 50% of those with
+
+Y = 0. The exposure-specific risks here are incorrect and so is the risk difference
+
+(about 0.14), showing the bias that can arise when missingness is caused by the
+
+outcome as in the right panel of Figure 3.6.
+
+We make three brief points. First, note that there is no bias in the risk difference
+
+for Figure 3.6 (center) but there is bias in the risk difference for Figure 3.6 (right),
+
+as is evident in Table 3.2. Now recognize that X→R in Figure 3.6 could mean that
+
+the true value of X is the cause of missingness in X (which would mean the data are
+
+MNAR) or of missingness in Y (which would mean the data are MAR). Similarly,
+
+recognize that Y→R in Figure 3.6 could mean that the true value of Y is the cause
+
+of missingness in Y (which would mean the data are MNAR) or of missingness
+
+in X (which would mean the data are MAR). Thus, we have demonstrated that
+
+whether data are MAR or MNAR does not tell you whether or not there is bias in
+
+complete case analysis. (Daniel, Kenward, Cousens, & De Stavola, 2012).
+
+Second, key to understanding causal diagrams for missing data is the independence of missingness and the outcome (Daniel, Kenward, Cousens, & De Stavola,
+
+2012). For example, the reason there is no bias from Figure 3.6 (center) is that
+
+when we condition on X (i.e., within levels of X), there is no association between
+
+missingness and the outcome. On the other hand, analysis of the total incidence
+
+of the outcome (which is not conditional on X) in this diagram will be biased: the
+
+total incidence of Y = 1 in the Center table ((100 + 80)/(500 + 800)) is biased
+
+compared to the full table ((200 + 100)/(1,000 + 1,000)). And third, and closely
+
+related, all these issues become much more complex when confounders are added
+
+to diagrams: such complexities are beyond the scope of this book and are the subject of ongoing methodological work. Here, we want you to come away with the
+
+basic understanding that MAR and MNAR are not the same as biased or unbiased
+
+in complete case analysis, as we have demonstrated.
+
+So what, then, is the use of MAR and MNAR distinctions? They tell us when---
+
+under missing data---we can correct for any bias that exists or improve the precision of our estimates using more advanced analytic techniques such as multiple imputation (Little & Rubin, 2002) or inverse probability weighting (Hernán &
+
+Robins, 2019). Specifically, multiple imputation and other methods generally depend on data being MAR (or MCAR) rather than MNAR. When data are MNAR,
+
+such techniques cannot be expected to eliminate all bias due to missing data. Of
+
+course, just as we can never know whether uncontrolled confounding is present
+
+(e.g., if we have left a critical covariate out of our DAG), we can never know for
+
+certain whether missing data are missing at random or not at random (i.e., are
+
+missing at least in part due to the unobserved true values of the given variables).
+
+We summarize some of this information in Table 3.3.
+
+Therefore, in the left and center panels of Figure 3.6, complete case analysis for
+
+the effect of X on Y (again, analysis of only those participants with no missing
+
+data on any variable) will be unbiased due to the missing data; however, multiple
+
+imputation, if possible, might improve the statistical efficiency (i.e., the precision)
+
+of the estimate. In the right panel of Figure 3.6, the complete case analysis will be
+
+biased, but multiple imputation (or a related technique) might be able to reduce
+
+the bias if the true value of Y is leading only X to be missing. We omit discussion
+
+of how to implement multiple imputation and inverse probability of missingness
+
+weighting; readers can find such discussions elsewhere.
+
+#### Selection Bias
+
+In epidemiology, the term "selection bias" means several things depending on
+
+context. These include bias resulting from the noninclusion of study subjects in
+
+analysis, for example, because of loss-to-follow-up (out-selection); bias resulting
+
+from conditioning or restricting on a collider (collider selection bias; Hernán,
+
+Hernández-Díaz, & Robins, 2004); and bias resulting from the selection of
+
+subjects into a study (in-selection bias, sampling bias, or generalizability bias). In
+
+this work we distinguish the three while acknowledging that all three are reasonably called "selection bias" by epidemiologists (Hernán, 2017).
+
+The first form of selection bias we discuss is analytic selection bias, which
+
+includes selection bias due to loss to follow-up and which overlaps with issues
+
+of missing data in some cases. In particular, when we analyze only cases with
+
+no missing data (described earlier as complete case analysis) the two can coincide: cases with no missing data are selected for analysis; those with missing data
+
+(leading to non-analysis) are not selected. As with missing data, we can analyze
+
+whether selection is likely to lead to bias by using DAGs (such as Figure 3.6) and
+
+sometimes adjust for selection using analytic techniques (see Table 3.3).
+
+The second type of selection bias is due to conditioning or restricting on a collider, called collider bias. Recall that a collider is a variable which is jointly caused
+
+by two additional variables (e.g., node C in Figure 3.7). For example, your steps
+
+may be wet because it rained or because the sprinkler system has a timer---the
+
+wetness (or not) of the steps is a collider for rain and the sprinkler. While X affects
+
+C and Y also affects C (X→C←Y) it is possible that there is no direct relationship
+
+(or arrow) between X and Y, as in Figure 3.7 (left).
+
+Another example: if smoking affects risk of heart attack and so do the genetics
+
+of cholesterol metabolism, there may not be a direct relationship between genetics and smoking. But among those who have a heart attack (where C = 1, a
+
+form of conditioning on the node C) there may be a relationship between the
+
+two nodes. This is because among those who have a heart attack, there is often a
+
+reason; among those who have a heart attack (C = 1) who do not smoke (X = 0),
+
+those reasons are more likely to be genetic than for in others in the population.
+
+Thus, in those individuals who have had a heart attack, knowing that they do not
+
+smoke raises the probability that they have some genetic susceptibility to heart attack. This induced relationship between smoking and genetics after conditioning
+
+on heart attack is sometimes informally shown on a DAG as a dotted line between
+
+X and Y. This is illustrated in Figure 3.7, in which, unconditional on C, there is
+
+no relationship between X and Y (left); once we condition on C (right; the box
+
+around C indicates we are holding C constant at any level), we induce a noncausal
+
+association (shown as the dotted line) between X and Y.
+
+Collider bias is sometimes considered a form of selection bias (Hernán et al.,
+
+2004); but see also (Hernán, 2017) though others find this use of "selection" somewhat confusing. Frequently, to "select" something is to pick that something out.
+
+while leaving other things behind. While some forms of collider bias (particularly, restricting on a collider) coincide with this connotative usage, other uses
+
+(conditioning on C in X→C←Y as in the right panel of Figure 3.7) do not match
+
+up with typical and widespread uses of the word "selection," leading to some confusion. Whatever it is called, however, conditioning on a collider can lead to dramatically incorrect study conclusions, including several issues that are otherwise
+
+considered "paradoxes" (Hernández-Díaz, Schisterman, & Hernán, 2006; Stovitz,
+
+Banack, & Kaufman, 2018).
+
+The last common use of selection bias is in-selection bias, which is a problem
+
+of the generalizability of findings from a study to some external target population (see Chapter 9for further discussion of target populations). This might occur
+
+if, for example, the results of your study vary by age, and the distribution of age
+
+differs between your study sample and your target population. While calling this a
+
+kind of selection bias is a perfectly reasonable approach and matches up well with
+
+broad usage of "selection," in this work we will distinguish this manifestation of
+
+selection bias by referring to it as generalizability-bias or sampling bias.
+
+#### Information Bias
+
+Here, we consider "information bias" and "measurement error" to be interchangeable terms and "misclassification" to be closely related. Errors of this type can
+
+arise for numerous reasons---and can lead to bias even when the error is entirely
+
+random.
+
+Information bias is in some ways easiest to understand when considering a
+
+two-category variable---for example, "exposed" and "not exposed"---and how
+
+individuals in one group may be mislabeled as belonging to the other group.
+
+This is a special case of measurement error we call misclassification. Consider
+
+the 2 × 2 table shown in Table 3.4 (top), which we presume tells us the truth
+
+about the world: in particular, that the risk difference (for some fixed time period) comparing exposed to unexposed is 0.10 − 0.05 = 0.05. Now suppose
+
+that we have a flawed test for assessing exposure, which randomly misclassifies
+
+20% of all truly exposed individuals as unexposed (i.e., the test has a sensitivity of 80%, see Chapter 4).However, this test never misclassifies the unexposed people. In this case, we would observe a table in which 20% of the truly
+
+exposed individuals (with their outcome risk of 10%) are analyzed as if they are unexposed: this is the equivalent of moving 200 individuals total, of whom
+
+20 experienced the outcome, from the exposed to the unexposed group and
+
+reanalyzing the data (Table 3.4, bottom). This leads to the overall risk of the outcome in the unexposed group being estimated at about 5.8%, rather than 5%---
+
+and that in turn leads to a biased estimate of the causal effect, which will now
+
+be estimated as 0.100 − 0.058 = \~4.2% instead of 5%. Thus, misclassification of
+
+the exposure leads to bias in this case; we encourage you to create your own example misclassifying the outcome (e.g., taking 10% of those within the Outcome
+
+column and shifting them to the No outcome column, the same way in each
+
+row) to see what happens.
+
+Table 3.4 presents an example of nondifferential misclassification of the exposure, which in the case of two categories will tend (on average) to move the effect
+
+estimate toward the null value of the effect in question (i.e., toward 0 for a risk
+
+difference, or 1 for a risk ratio). The misclassification here is "nondifferential"
+
+because the probability of being misclassified is independent of the true outcome
+
+status. The bias toward the null (e.g., a risk difference closer to zero) is due to
+
+the fact that moving individuals randomly from exposed to unexposed (or vice
+
+versa, or both at once) will tend (on average) to make the two groups more similar. At one possible extreme, when the exposed/unexposed label is assigned at
+
+random, irrespective of true exposure, the two groups will have the same proportion of exposed and unexposed participants, and we will detect no differences
+
+between them. It should not surprise us, therefore, that as two groups become
+
+more similar due to misclassification, the differences between them tend to grow
+
+smaller.
+
+This idea that "nondifferential misclassification of the exposure will lead to bias
+
+toward the null" is widely repeated and often misunderstood in its particulars,
+
+and so it is worth examining more closely. First, and most critically, this is a statement about averages: while the direction of the bias is predictable, in any given
+
+example or dataset the realization of nondifferential misclassification is subject
+
+to random as well as systematic error. Such random error may lead to data in
+
+which supposedly nondifferential misclassification leads to bias away from the
+
+null (Jurek, Greenland, Maldonado, & Church, 2005). As well, if there are more
+
+than two exposure categories, the direction of bias resulting from nondifferential
+
+exposure misclassification is unpredictable. Finally, when misclassification is differential, all bets are off: if (for example) exposure was misclassified only among
+
+those who experienced the outcome, or at different rates among those who had
+
+the outcome and those who did not, the direction of bias would be generally
+
+unpredictable.
+
+Information bias generally can result from a number of processes, including
+
+systematic bias in collection of information or faulty instrumentation. It is an
+
+important form of systematic error, especially because measurement error that
+
+occurs completely at random can introduce bias into effect estimates. For example,
+
+if random noise makes two distinct groups look more similar, then comparisons
+
+between those groups may be attenuated. We describe approaches to addressing
+
+information bias in Chapter 4.
+
+#### Internal and External Validity
+
+Having now discussed both the notion of a study sample compared to a target
+
+population and the biases which can arise, we can discuss the notions of both internal validity and external validity. Recall from Chapter 1 that validity is defined
+
+as a lack of bias, or lack of systematic error such as those just described. Assuming
+
+for the moment that we have no random error, we can define internal validity as
+
+the condition in which we have no bias in our estimate of causal effect within the
+
+study sample: that is, when the estimated causal effect in the study sample is equal
+
+to the true causal effect in the study sample. This condition is shown more formally
+
+at the end of the Appendix to this chapter.
+
+In contrast, there is external validity when the true effect in the study sample is
+
+equal to the true effect in the target population, or alternatively when "the \[true\]
+
+causal relationship holds over variation in persons" (Shadish, Cook, & Campbell,
+
+2002, p. 472) and perhaps other factors. In cases where the target population is
+
+exactly equal to the study sample, there is perfect external validity. For the most
+
+part in this book, we focus on estimating internally valid causal effects, but we
+
+discuss external validity in several places as well. Discussion of the relationship
+
+between internal and external validity is ongoing in the methodological literature
+
+(see Westreich, et al., 2019).
+
+### MEASURES OF CAUSAL EFFECT
+
+#### Measures of Effect
+
+We now briefly return to the measures of association we described in Chapter 2.
+
+Recall that all the measures of association discussed in Chapter 2 can be estimated
+
+without attention to the causal identification conditions and biases/systematic
+
+errors noted earlier, but then the resulting estimates can only be interpreted as
+
+associations and not as estimate of causal effect.
+
+For example, we can estimate a risk difference from an observed 2 × 2 table of
+
+data even if exchangeability is not met in the data, specifically if the exposure--
+
+outcome relationship is confounded. However, if the exposure--outcome relationship is confounded, we can only interpret that risk difference as an association
+
+but not as a causal effect. If we wish to interpret an estimated risk difference as an
+
+estimate of a causal effect, we should be prepared to defend why we think the risk
+
+difference in question meets the causal identification conditions noted earlier or
+
+can be considered causal for some other reasons (e.g., meets an alternative set of
+
+identification conditions). Earlier, we showed how application of some of these
+
+conditions allows us to connect the association with the estimated causal effect for
+
+the risk difference; similar processes can be applied to the risk ratio, odds ratio,
+
+and other measures of association explored in Chapter 2.
+
+Now we discuss two measures which were not covered in Chapter 2 because
+
+both can be viewed as more inherently causal measures and cannot be easily or
+
+sensibly interpreted in terms of association alone. These are the number needed to
+
+treat (NNT) and the population attributable fraction: these should be calculated, reported, and interpreted only when we can make a reasoned argument that they
+
+can be interpreted causally---and otherwise only with extreme caution.6 (See
+
+Chapter 9 for further discussion of both measures.)
+
+#### Number Needed to Treat
+
+Consider a new pharmacotherapy ("Treatment") to prevent heart attack (myocardial infarction, MI) in older adults, in a study lasting 5 years. Data for this
+
+study are shown in Table 3.5, where those not taking the treatment have a 10%
+
+risk of MI over 5 years, while those taking the treatment over that period have a
+
+6% risk. We could use these numbers to calculate the 5-year risk difference associated with treatment (0.06 − 0.10 = −0.04) and likewise we could calculate a risk
+
+or odds ratio.
+
+Suppose instead we wish to ask "How many untreated people would we have to
+
+treat in order to prevent one MI?" This is the number needed to treat, and it is selfevidently about causality: we are asking not about associations, but about the likely
+
+effects of making a change in the world by treating people with a specific drug.
+
+The NNT is calculated as simply the reciprocal of the absolute value of the
+
+risk difference. Since the risk difference is −0.04, its absolute value is 0.04, and
+
+0.04-1 = 25: thus, we would have to treat 25 untreated people to prevent one MI
+
+over 5 years (note the inclusion of the time period in the interpretation, much
+
+like the risk difference itself requires). Convention is often that we round the
+
+NNT up to the nearest integer because we cannot intervene on a portion of a
+
+person. However, this approach is also considered conservative.
+
+In this case, the treatment was protective; when a treatment or exposure is
+
+harmful, we can calculate a number in the same way but often describe that value
+
+as a number needed to harm (NNH). However, NNT versus NNH distinctions are
+
+ultimately a matter of both subject matter convention and clarity in explanation.
+
+One key caveat to the NNT is that it can be calculated whenever a risk difference is available---calculated, but not always interpreted. If there is no obvious
+
+"treatment" for the exposure under study---or the treatment is vague or ambiguously defined---then presentation of the NNT may be contraindicated (though we might still want to calculate a "number needed to expose" or other analogous
+
+measure, depending on the circumstances. We discuss this further in Chapter 9.
+
+#### Population Attributable Effects
+
+Let's return to an example from Chapter 2, that of the environmental contaminant (e.g., a chemical spill): suppose we were interested not in the difference in
+
+risk, but in prevention. Suppose we are considering what impact it would have if
+
+we had been able to prevent the contaminant from affecting anyone, such that all
+
+those who were exposed were instead not exposed. As with the NNT, this idea is
+
+inherently causal: it imagines a world in which we can intervene to remove the
+
+harmful exposure and estimate the effect of doing so from the data in front of us
+
+(as in this chapter).
+
+Recall that in our initial example (Table 2.2) we stated that we enrolled 2,000
+
+participants into our study, 1,000 of whom were exposed and 1,000 of whom
+
+were unexposed. The 5-year risk difference can still be calculated here as 0.04 or
+
+4%. But the risk difference does not answer our question, which was "what impact would it have if we could move all those in the exposed category to have the
+
+risk profile of the unexposed category?" Unlike the risk difference, this is about
+
+comparing the overall risk in this population (calculated in the "Total" row as
+
+0.050) to the overall risk in this population if the 1,000 exposed individuals had
+
+not been exposed.
+
+Had, counter-to-fact, the 1,000 exposed individuals not been exposed, what
+
+would their risk be? If we assume exchangeability between the exposed and unexposed individuals here (which might be reasonable if the exposure was essentially
+
+distributed at random in the affected population), then the exposed individuals,
+
+had they not been exposed, could be assumed to have experienced the same
+
+risk as those who were not exposed in fact: that risk being 0.030. Thus, if all the
+
+originally exposed and originally unexposed people experienced a risk of 0.030
+
+(Table 3.6), then the total population risk would be 0.030. We could then contrast
+
+the original total population risk (0.050) to the total population risk if all exposed
+
+participants had instead been unexposed (0.030).
+
+Broadly, such a comparison is called a population attributable effect; the most
+
+common of such effects is the population attributable fraction (PAF). The PAF
+
+is generally defined as the percentage of outcomes which can be attributed to
+
+the exposure---and thus, the percentage of outcomes which would disappear if,
+
+counter to fact, the exposure had not occurred or was removed entirely. In this
+
+case, it is calculated as the difference between the risk in the original total population and the risk in the population in which everyone is unexposed (0.050 −
+
+0.030), divided by the total risk in the original population (0.050): this comes out
+
+to 0.40. That is, 40% of the total outcome risk could be removed if we could have
+
+prevented exposure in all those exposed. Alternatively, we can calculate the PAF
+
+from the risk ratio (RR) and exposure prevalence (Pr(E = 1)):
+
+Pr E RR
+
+Pr E RR
+
+( ) = × − ( )
+
+( ) = × − ( )+
+
+1 1
+
+1 1 1
+
+In this case, Pr(E = 1) is 0.5, and RR = 2.33, and so this equation becomes (0.5 ×
+
+(2.33 − 1)) / (0.5 × (2.33 − 1) + 1) = 0.6667/1.6667 = 0.40, the same answer as we
+
+estimated immediately above. As this equation implies, we should expect the PAF
+
+to change with the prevalence of exposure. You might wish to create a numerical
+
+example exploring this phenomenon using a spreadsheet.
+
+We can also calculate a population attributable risk difference, which is simply
+
+the numerator above: 0.050 − 0.030 = 0.020. This is the absolute difference in risk
+
+we would see over five years in the whole population if we had prevented exposure
+
+in all those exposed. These uses of "population attributable" correspond to what
+
+Greenland and Robins previously called "excess" cases of disease (Greenland &
+
+Robins, 1988; Rockhill, Newman, & Weinberg, 1998). As these authors note, we
+
+have omitted consideration of those for whom the absence of the exposure would
+
+have moved the incidence of the outcomes later in time and yet still within the
+
+follow-up period (within 5 years, in our preceding example).
+
+As with the NNT, a population attributable effect (and our descriptions of it) is
+
+inherently causal: one cannot, in a reasonable use of language, "attribute" an outcome to something which did not cause that outcome. In light of some differences
+
+in terminology, what seems most critical for a user of these methods is to be clear
+
+that they are being used to estimate a causal effect. Then the user can be precise as
+
+to what causal effect they believe their calculation to be estimating, with attention
+
+to the causal identification conditions as well as possible additional considerations
+
+(see Chapter 9).
+
+One final caution on PAFs is that---because many outcomes are caused by more
+
+than one factor (see Section 3.7.2)---PAFs can sum to more than 1 for the same
+
+outcome. As a trivial example, no one can die of AIDS without having HIV infection; thus, by definition, the PAF for the exposure of HIV and the outcome
+
+of death from AIDS is 100%. But because people die with AIDS for all sorts of
+
+additional reasons as well---having HIV is necessary but not sufficient to die of
+
+AIDS---the PAFs for HIV infection and (for example) tuberculosis infection will
+
+sum to more than 1.
+
+### OTHER MODELS OF CAUSALITY AND CAUSAL INFERENCE
+
+In this text, we focus on potential outcomes and causal DAGs as approaches to
+
+causal effect estimation. However, historically, numerous other approaches have
+
+been taken to causal inference and causal effect estimation. Here, we briefly describe a few of these.
+
+#### The Hill Lecture
+
+Perhaps the most famous of these are the "causal criteria" of Sir Austin Bradford
+
+Hill. A lecture given by Hill, the summary of which was published in Proceedings
+
+of the Royal Society of Medicine in 1965, described nine criteria that might help
+
+us distinguish whether a particular factor is a cause of disease (Hill, 1965). He
+
+listed the following guideposts: strength of association, consistency of association
+
+(which he meant in a broad sense, not the narrow causal identification condition
+
+noted earlier), specificity of association, temporality, biological gradient (such as
+
+a dose--response relationship), plausibility, coherence (with known facts), experiment, and analogy.
+
+Notably, these guideposts have been repeatedly used as a checklist to determine
+
+whether an association is causal, despite Hill's specific caution that he did not
+
+believe:
+
+We can usefully lay down some hard-and-fast rules of evidence that must be
+
+obeyed before we accept cause and effect. None of my nine viewpoints can
+
+bring indisputable evidence for or against the cause-and-effect hypothesis and
+
+none can be required as a sine qua non.
+
+(Many would argue that temporality is indeed a sine qua non!)
+
+Again, we are restricting ourselves in this book to causal effect estimation,
+
+which is not the same as causal inference (Greenland, 2017): in particular, the
+
+latter is a much wider field, and we do not rule out Hill's guidelines as potentially useful for larger scale considerations of causal inference. Ultimately, Hill's
+
+goal was in deciding when sufficient evidence has accumulated to drive action to
+
+guard health: a decision which involves more than causal effect estimation. In this
+
+work, we rely on a combination of the potential outcome framework and causal
+
+diagrams to help guide causal effect estimation.
+
+#### Sufficient Component Causal Framework ("Causal Pies")
+
+This model of causality was introduced by Rothman in 1976 (1976, 2012) and is
+
+very helpful in thinking about "multicausality": the idea that events occur only
+
+in the presence of multiple causal factors. Specifically, a particular case of disease generally has many contributing causes, all of which are necessary to that
+
+particular case. For example, person Z was eating dinner when they suddenly
+
+suffered a heart attack; the restaurant called paramedics but person Z died before they could arrive. Here, perhaps the necessary causes of the outcome of death
+
+include the heart attack and also the fact that the paramedics did not arrive in
+
+time (Figure 3.8). Had either of those two causes been absent (i.e., had the heart
+
+attack not occurred or had the paramedics arrived in time), the outcome (death)
+
+would not have occurred. Alternatively, had there been a heart attack and yet a
+
+timely paramedic arrival---or no heart attack, but a late paramedic arrival---then
+
+person Z would not have died. (It is, of course, notable that without the heart
+
+attack, a paramedic arrival would have been very strange---but nonetheless Z
+
+would still be alive.)
+
+In this framework, each instance of the outcome gets its own pie, reflecting the
+
+causes that were necessary to that case of the outcome: so a different death might
+
+be attributed to heart attack and lack of a phone so that the paramedics could not
+
+be called in the first place, and a third death to other factors entirely. Though we
+
+will not dwell on causal pies further, it is worth mentioning that the causal types
+
+we introduced earlier (doomed, immune, etc.) can be mapped to people who do
+
+or do not have certain component causes.
+
+### SUMMARY
+
+There is contentious and ongoing debate about the best approach to causal effect
+
+estimation and causal inference within epidemiology. We ally ourselves with the
+
+view that both potential outcomes and causal diagrams are extremely useful in
+
+the conceptualization and estimation of quantitative causal effects: that is, in the
+
+estimation of the quantitative effect of a well-defined exposure on an outcome.
+
+This is the approach we take in this work because our goal---improving the health
+
+of populations---requires well-defined exposures and outcomes and estimates of
+
+the causal effects of interventions against those exposures. We do not make any
+
+universal claim about the applicability of this framework to causality or causal inference in general---only the estimation of quantitative causal effects.
+
+The view of causality presented here, including potential outcomes and causal
+
+diagrams, integrated with an understanding of descriptive and predictive epidemiology (in the form of surveillance and screening, Chapter 4), key study designs (Chapters 5--8), and the causal impact framework (Chapter 9), is the best
+
+way I know to help craft (relatively!) unambiguous epidemiologic inquiries, the
+
+answers to which have high potential to improve public health.
+
+[@glass_2013]
+
+Suy diễn nhân quả có vai trò trung tâm trong y tế công cộng. Việc xác định một mối quan hệ có phải là nhân quả hay không cho thấy khả năng thực hiện một biện pháp can thiệp.
+
+Tổng hợp các hướng dẫn lâu đời nhằm phiên giải chứng cứ như một sự ủng hộ cho quan hệ nhân quả và so sánh với nền tảng kết cuộc khả dĩ vốn khuyến khích cách suy nghĩ rằng nguyên nhân là các biện pháp can thiệp. Trong y tế công cộng, nền tảng này là phù hợp hơn và cung cấp ước tính về những hệ quả của hành động so với cách định nghĩa kém chính xác về tác động nhân quả của yếu tố nguy cơ. Nhiều phương pháp thống kê hiện đại đã vận dụng cách tiếp cận này. Khi một biện pháp can thiệp không thể được xác định, quan hệ nhân quả vẫn có thể tồn tại, nhưng cách thức can thiệp để thay đổi kết cuộc sẽ không còn rõ ràng nữa. Về ứng dụng, chúng ta cần ghi nhận cấu trúc phức tạp của các quá trình nhân quả và thu thập dữ liệu phù hợp để nghiên cứu chúng. Các phương pháp tiếp cận mới này cần được vận dụng để giải quyết những thách thức ngày càng phức tạp về y tế công cộng trong thế giới toàn cầu hoá của chúng ta.
+
+## Mở đầu
+
+### Tổng quan
+
+Việc xác định liệu một mối quan hệ có phải là nhân quả hay không có thể mang lại những hệ quả quan trọng về y tế công cộng, gợi ý cho nhu cầu hoặc ít nhất là khả năng thực hiện một hành động nhằm giảm phơi nhiễm với một chất độc hại hoặc gia tăng phơi nhiễm với một yếu tố có lợi. Vì vậy, suy diễn nhân quả thường được gắn kết vào thực hành y tế công cộng và xây dựng chính sách một cách trực tiếp hoặc gián tiếp. Nhân viên y tế quyết định về một can thiệp dựa trên hệ quả gây ra bởi một quan hệ nhân quả mặc định nào đó. Suy diễn nhân quả được kết hợp vào các quá trình pháp lý, ví dụ như quyết định của Tổ chức Bảo vệ Môi trường Hoa Kỳ (EPA) đối với chất gây ô nhiễm không khí ngoài trời chính và các hoá chất độc hại, và của Văn phòng Cựu chiến binh nhằm bồi thường cho cựu binh Mỹ về những tình trạng hay bệnh lý liên quan đến công vụ. Bằng chứng về y tế công cộng
+
+The determination that an association is causal can have profound public health consequences, signaling the need or at least the possibility to take an action to reduce exposure to a hazardous agent or to increase exposure to a beneficial one. Consequently, causal inference is implicitly and sometimes explicitly embedded in public health practice and policy formulation. Practitioners decide on interventions on the basis of consequences produced by a presumed causal relationship. Causal inference is embedded in regulatory processes, for example those of the US Environmental Protection Agency (EPA) with regard to major outdoor air pollutants and the hazards of chemicals, and those of the Department of Veterans Affairs, in compensation of US veterans for service-connected conditions and diseases \[Agent Orange Act, Pub. L. 102-4 (1991); Clean Air Act 42 U.S.C. § 7401-7671q (2008); 36, 37\]. Public health evidence may be prominent in legal proceedings in which judgment about the existence of a causal relationship is pivotal in determining guilt and liability for damages ([**16**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#), [**72**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)). Causal inference is also embedded in many aspects of medical practice through the principles of evidence-based medicine, where decisions about harms or benefits of therapeutic agents are based, in part, on rules for how to measure the strength of evidence for causal connections between interventions and health outcomes ([**20**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)).
+
+The history of public health and of its quantitative disciplines, epidemiology and biostatistics, can be seen as one long discourse on disease causation, the ultimate targets of which are to find and to mitigate reversible causes ([**22**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#), [**23**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#), [**33**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#), [**46**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#), [**50**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#), [**67**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)). Over that history, a variety of "frameworks" for thinking about causation have risen to coincide with the dominant problems of the day and the scientific understanding of their etiology. During the ravages of the cholera epidemics of the nineteenth century, John Snow gathered evidence in support of waterborne transmission, using what Frost later called his ordered "chains of inference" ([**11**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#), p. IX) ([**15**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#), [**73**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#), [**74**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)). With the advent of germ theory, Koch's postulates provided a more systematic and formalized approach that worked well within the specificity of unique germ-disease links ([**8**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)).
+
+In the 1950s and 1960s, what we call the classic framework for causal thinking was articulated by Sir Austin Bradford Hill, who added to this discourse with his causal criteria against the backdrop of international debate about the causal role of smoking in the epidemic of lung cancer ([**53**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#), [**76**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)). This classic framework was developed to identify the causes of diseases and particularly to determine the role of smoking in lung cancer ([**33**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#), [**71**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)), but its use has been extended to public health decision making, a domain where questions about causal effects relate to the consequences of interventions that have often been motivated by the identification of causal factors. This framework, described below, has proven useful and has driven decision making in public health for decades. However, the framework does not reflect the current, more clearly articulated view of causal processes. Additionally, the guidelines used to evaluate evidence have not changed for decades, even as the causal questions have become more complex, beyond the original intent of this framework.
+
+One important limitation of the classic view of disease causation arising from the Hill criteria has been the lack of a formal basis for evaluating causal hypotheses. Only in the past several decades have investigators explored more formally the foundational mathematical and conceptual issues required for rigorous estimation of causal effects, particularly in circumstances where randomization of treatment assignment that insures exchangeable comparison groups is unfeasible. Since 1970, the frequency and intensity of formal discourse on causation and causal inference have increased, and the field has progressed toward what we term the modern approach, based on the counterfactual or potential outcomes framework ([**18**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#), [**25**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)).
+
+In this review, we first describe and comment on the classic framework that is generally attributed to Sir Austin Bradford Hill and the advisory committee that prepared the 1964 US Surgeon General's report on smoking ([**33**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#), [**71**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)). We follow with a brief review of the modern framework based on the counterfactual, or potential, outcomes model for estimating causal effects. The latter approaches are unified by an analytic effort to approximate the experimental paradigm that balances treated (exposed) and untreated (unexposed) groups on other factors. We next carry this counterfactual approach to the broad and multilevel nature of causal questions, as formulated over the past several decades, and consider causal inference in the context of such questions and their implications for public health actions ([**14**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)). We end with consideration of how these new approaches---broader frameworks for formulating causal questions and developing analytical tools to answer them---can be used to reduce uncertainty associated with causal determinations. The interplay between strength of evidence and remaining uncertainties typically figures prominently in decision making. More pragmatically grounded and transparent approaches are needed as we face such challenges as the rise of obesity throughout the world---an example that necessitates a multilevel framing of underlying causal processes, with structures extending from the genes of individuals to the foods sold worldwide by multinational corporations, as the basis for formulating interventions ([**35**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)). This type of framework has already proven valuable in approaching tobacco control ([**Figure 1**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)). The upstream drivers of the epidemic are clear at this point in its course: a large and powerful global industry led by a handful of powerful multinational corporations. The role of factors at other levels has also been characterized: cultural acceptance of smoking, laws, peers, and the family. Now, we are probing the genetic basis of susceptibility to nicotine addiction and tobacco-caused diseases. Within the modern framework, such structure leads to questions and counterfactuals at multiple levels: At the highest level, what would be the disease burden, absent the upstream factor (e.g., the tobacco industry), and at the lowest level, what would be the disease risk for genetically susceptible individuals, absent the environmental factor (e.g., smoking)? The structure also raises the possibility of interventions at multiple levels, reflecting how interventions might be carried out in practice.
+
+### Một vòng khái quát về triết học
+
+Although public health scientists and practitioners have disagreed fiercely at times about what is required of causal explanations, the idea that causal relationships can be proven has rarely been seriously questioned. But in the long and contentious discourse on causation in philosophy ([**3**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)), one can discern two distinct classes of causation theory. On one side are the descendants of Locke and John Stuart Mill, who argued that causation can be verified through the careful implementation of the scientific method and the power of experimentation. On the other side is a parallel line of discourse that extends from David Hume, who argued that even though nature may contain real causal "connexions" between phenomena, causation cannot be empirically verified ([**36**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)). This skeptical tradition had no better spokesman than Bertrand Russell ([**64**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)), who in a famous essay delivered to the Aristotelian Society of 1912, wrote, "The law of causality, I believe, like much that passes muster among philosophers, is a relic of a bygone age, surviving, like the monarchy, only because it is erroneously supposed to do no harm" (p. 1).
+
+Although the science of epidemiology and the practice of public health fall clearly into the pragmatic tradition of Locke and Mill, evidence of the influence of Hume and Russell can be found in the early skepticism of R.A. Fisher ([**9**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)) and Karl Pearson, the father of modern statistics, who argued that the correlation between two variables, once known, is all there is to know, a view that persists with some epidemiologists. In their review of causal inference in epidemiology, Lipton & Ødegaard ([**47**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)) ask what is really added to the statement that smokers are at X-fold increased risk of lung cancer by the statement that smoking is a cause. From a policy point of view, the use of causal language has obvious advantages, and it has been widely embraced not only by researchers but by policy makers. The legacy of Hume and Russell urges us to be cautious because assigning causal significance to some phenomena also provides an easy target for skeptics and, potentially, affected stakeholders to derail reasonable interventions on the basis of an absence of proof. Public health practitioners and researchers are interested primarily in effecting change and not in engaging in philosophical debates, but the ghost of Russell reminds us that the invocation of causal language has powerful consequences, both good and bad.
+
+The challenge of determining causation in public health has always been shaped by the limitations of the available data, the understanding of the underlying biological or sociological processes, and our ability to intervene in the real world. Faced with sometimes limited data and an often poor understanding of a network of connected factors in a complex world, we revert to pragmatism. Public health science seeks the certainty of the experiment as its organizing principle. Holland ([**34**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)) says it succinctly in a famous paper, "Put as bluntly and as contentiously as possible, in this article I take the position that causes are only those things that could, in principle, be treatments in experiments" (p. 954).
+
+This statement is formalized in the potential outcomes framework, which compares what is observed to what might have been observed, all other things being equal, under a counterfactual scenario. The potential outcomes framework is a powerful tool that has implications for how we see the world and to determine what types of questions can be answered in a useful way for public health purposes and what kinds of questions are beyond our capacity to answer ([**25**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#), [**55**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#), [**61**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#), [**62**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#), [**63**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)).
+
+### Các cách tiếp cận về suy diễn nhân quả trong y tế công cộng
+
+The classic approach to causal inference in public health, described quite similarly across textbooks and widely used in practice, has its roots in the seminal debate around smoking as a cause of lung cancer in the 1950s and 1960s ([**33**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#), [**71**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)). At that time, the results of epidemiological studies had shown associations of smoking with increased risk for lung cancer and other cancers, for coronary heart disease, and for "emphysema" and "bronchitis." The most relevant data came from case-control and cohort studies and findings from animal models and lab studies characterizing the components of tobacco smoke. Rising mortality rates from lung cancer and coronary heart disease provided a strong imperative for taking action to reduce cigarette smoking. However, taking action required that smoking be established as the cause of the increases in mortality. Even as the epidemiological evidence mounted, the tobacco industry implemented a wide-ranging strategy to question the credibility of epidemiological evidence generally and of the most pivotal studies specifically ([**54**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)). This tactic of creating doubt about the evidence heightened tension around the challenge of interpreting the findings of epidemiological research, and its use attests to the societal importance of causal determinations. The manufacture and dissemination of doubt remain strategies today, widely used by stakeholders whose interests are potentially threatened by a causal finding ([**49**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)).
+
+The framework that was put forth for causal inference in the 1960s involved expert judgment grounded in a set of guidelines or criteria ([**Table 1**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)). The long-standing discussion among philosophers was acknowledged as these guidelines were elaborated, but the need for a pragmatic and timely approach foreshortened debate. The framework was effective for smoking and lung cancer, one of its first applications. Smoking is a potent cause, increasing the risk of lung cancer about 20-fold and leading to most cases of lung cancer; consequently, the evidence from observational studies was consistent and strong, and temporality was clear. As described by their originators and as used in practice, these criteria (or what Hill calls "viewpoints") are not absolute nor does inference of a causal relationship require that all criteria be met. In fact, only temporality is requisite. Some features of evidence, most notably specificity, have proven to have little applicability for noncommunicable diseases that have multiple causes. The classic approach is vulnerable to subjectivity in the evaluation of evidence and to manipulation of the evidence, and stakeholders potentially affected by the finding that an association is or is not causal may take opposing positions on evidence interpretation. Additionally, as constructed and applied, the framework assumes a simplistic direct relationship between cause and putative effect without explicit consideration of the structure of the underlying causal processes. For example, tobacco smoking is an indisputable cause of lung cancer, but more distally in the causal process, a small number of multinational tobacco companies produce most of the cigarettes sold and smoked worldwide ([**Figure 1**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)). The inference about cause became the rationale for intervention, but the causal conclusions were not couched in the consequences of specific actions to reduce or eliminate cigarette smoking. And later, public health action was aimed at the individual smoker, rather than at the upstream system of cigarette manufacture, advertising, and distribution. This limited focus is a key characteristic of the traditional approach; causal determinations were made by epidemiologists and others in public health about various risk factors without considering the effect of a specific way of changing them.
+
+Today, public health practice can be seen to be influenced by both the classic and modern frameworks, as exemplified in the following case studies. In setting outdoor air quality standards in the United States, causal inference and associated counterfactuals figure in the decision process. Two sections of the US Clean Air Act (108 and 109) address the major outdoor air pollutants, requiring the Administrator of the EPA to set National Ambient Air Quality Standards (NAAQS) such that "the attainment and maintenance of which in the judgment of the Administrator, based on such criteria and allowing an adequate margin of safety, are requisite to protect the public health" (p. 5697). The phrase "such criteria" refers to the accumulated evidence on harm, giving emphasis to that reported since the last review of the NAAQS. The present process for a pollutant, e.g., ozone, begins with a review of the evidence, assembled in the Integrative Science Assessment ([**Figure 2**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)). The process for causal inference draws on the long-standing classic approach and classifies the strength of evidence in a five-level scheme ("not likely," "inadequate," "suggestive," "likely," and "causal"). The classification, in part, determines the effects that are subsequently considered in the risk analysis, which estimates the pollutant-related burden of disease and the consequences of potential changes to the NAAQS. Those effects for which the evidence reaches the level of "likely" or "causal" are generally advanced for consideration in the risk analysis and consequently figure in the policy judgment made by the Administrator on revising the NAAQS for a pollutant. The risk analysis models the counterfactual distribution of health outcomes under different scenarios of pollution reduction and under no intervention. The risk analysis has the modern approach as its conceptual underpinning.
+
+The International Agency for Research on Cancer (IARC) of the World Health Organization operates its Monograph Program, which conducts systematic reviews to classify agents by their carcinogenicity ([**39**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)). The general approach involves a meeting of a multidisciplinary working group that reviews evidence relevant to a particular agent in four broad categories: (*a*) exposure, (*b*) studies of cancer in humans, (*c*) studies of cancer in experimental animals, and (*d*) mechanistic and other relevant data. The human and animal evidence is separately considered, and for each category, the strength of evidence for causation is classified in a four-level hierarchical schema: sufficient, limited, inadequate, or suggesting lack of carcinogenicity. The evidence is evaluated with an approach based in the Hill or classic criteria. Evidence for the role of particular mechanisms is evaluated as "weak," "moderate," or "strong," and investigators consider the relevance of the mechanism to cancer in humans. The overall classification is based primarily on the animal and human findings ([**Figure 3**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)), but the mechanistic evidence can figure in the classification as well. This approach, for example, resulted in the 2011 classification of radiofrequency electromagnetic radiation, the type emitted by mobile phones, as a possible human carcinogen, Group 2B in the IARC schema ([**2**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)).
+
+## Tiếp cận suy diễn nhân quả bằng cách so sánh kết cuộc của các biện pháp can thiệp y tế công cộng khác nhau
+
+As described above, a key role for causal inference in public health is the comparison of the distribution of health outcomes after different interventions. In an ideal world, these comparisons would be conducted via randomized experiments, and all public health decisions would be based on the findings of those experiments. For example, the integration of smoking-cessation programs into the health care system would ideally rely on the findings from long-term randomized studies comparing the efficacy of the intervention in large groups of people from the target population that adhered to the intervention with control groups. Similarly, the decision to increase taxation or regulation of tobacco products would be based in studies that randomly allocated these policies across communities or counties. Unfortunately, such randomized experiments are often unethical, impractical, or simply too lengthy for timely decision making. As a result, causal inferences for public health are usually derived from observational studies, buttressed by other lines of evidence if available.
+
+The use of observational, rather than experimental, data for causal inference in public health raises several concerns. One particularly relevant concern for public health is that the interventions under consideration may be vaguely defined, if at all, limiting the relevance of the findings for public health decision making. For example, the comparison of observed mortality rates between obese and lean people suggests a possible causal relation between obesity and death but offers little guidance for action: Should solutions be found in exercise programs in the workplace, reduction of sizes of sugared sodas available in retail stores, liposuction ([**26**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#), [**32**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#))? Although obesity may meet criteria for a causal factor in the classic framework, the association between obesity and mortality offers little insight for preventive action. One alternative is to focus on the contrast between individuals randomly assigned to dietary modification versus those who are not or a contrast between communities randomized to taxation of sugary drinks versus those who are not. The findings from such experiments would provide direct, actionable information about the effects of interventions against obesity. The observational study that compares obese and lean people provides only indirect evidence and lacks a formally testable causal relation in the absence of further specification.
+
+One way to address this concern and bridge the gap between the observational data and public health decision making is to design observational analyses in such a way that the observational data emulate those from hypothetical randomized experiments with relatively well-defined interventions. For example, observational data could be used to mimic a hypothetical randomized experiment involving dietary interventions by comparing the observed outcomes of individuals who change versus those who do not change their diet during the study period; or data could be used to mimic a hypothetical randomized experiment of food policy by comparing health outcomes between schools that did and did not restrict access to sugary drinks. This approach is built into the counterfactual or potential outcomes framework proposed by Neyman ([**51**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)), expanded by Rubin ([**61**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#), [**62**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)), and generalized to time-varying exposures by Robins ([**55**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#), [**56**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)). A counterfactual approach to causal inference in public health requires that the causal effects are defined in terms of contrasts between the distributions of the health outcomes under different (hypothetical) well-defined interventions.
+
+Comparing relatively well-defined public health interventions is only the first problem for causal inference from observational data, however. Even well-defined intervention groups will not usually be directly comparable because the key characteristics of individuals in each group are likely to differ. For example, individuals who change their diet may also adopt a healthier lifestyle than those who do not, and schools that change their food policies may serve populations with less economic inequality than do those schools whose policies remain unchanged. This noncomparability problem, commonly referred to as confounding, is a fundamental problem for causal inference using observational data.
+
+The most common approach to mitigate confounding is to measure as many variables as possible that are responsible for the noncomparability and to adjust for them in the statistical analysis. The available methods to adjust for measured confounders are stratification, matching, standardization, inverse probability weighting, and g-estimation. In practical applications with sparse or high-dimensional data, these adjustment methods are implemented with the help of statistical models. For example, adjustment via stratification is often carried out using conventional regression models.
+
+Sometimes the measured confounders are used to estimate each study participant's probability of receiving the exposure of interest. For binary exposures (e.g., yes/no), this probability is referred to as the propensity score ([**60**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)). If the propensity score is available for adjustment, then the individual variables are not necessary. Inverse probability weighting and g-estimation are methods based on propensity scores. Propensity scores can also be used to adjust for confounding via stratification (e.g., by adding the propensity score as a covariate in the regression model), matching, and standard-ization.
+
+For the above methods to provide valid causal inferences, all the confounders must have been identified and appropriately measured, a condition that is not empirically testable. One alternative method to eliminate confounding from the effect estimate is instrumental variable estimation ([**17**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#), [**31**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)). Unlike the other methods, instrumental variable estimation does not require investigators to measure any confounders. Rather, it requires them to identify and appropriately measure an instrument, which is roughly defined as a variable that has an effect on the exposure and that is unassociated with the outcome except through its effect on the exposure. Unfortunately, it is impossible to verify empirically that a particular variable is an appropriate instrument. Furthermore, valid instruments can provide only lower and upper bounds for the magnitude of the causal effect of interest. Typically, these bounds are not helpful for decision making because they range from beneficial to harmful effects. As a result, most applications of instrumental variables make additional untestable assumptions to obtain point estimates for the effect of interest.
+
+When exposures are time-varying, a new potential problem arises: Perhaps the confounders (also time-varying) are themselves affected by prior exposure levels. In the presence of this exposure-confounder feedback process, some of the above methods---stratification and matching---cannot be generally used for valid causal inference. Valid adjustment for measured confounding requires the use of the parametric g-formula (a generalization of standardization) ([**55**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#), [**68**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)), inverse probability of marginal structural models ([**27**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#), [**58**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)), or g-estimation of nested structural models (which include some forms of instrumental variable estimation for time-varying exposures as a particular case) ([**28**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#), [**57**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)). These methods, developed by Robins and collaborators since 1986, are often referred to as causal methods because they can be applied to obtain valid causal inferences, even in complex settings with time-varying confounders affected by prior exposure ([**29**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#), [**55**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)).
+
+Another recent addition to causal inference methodology is the use of causal diagrams (directed acyclic graphs, or DAGs). Although not a data-analysis method themselves, causal diagrams are used to represent the structure of the causal networks linking exposure, outcome, confounders, and other variables, requiring an explicit formulation of the relationships among these factors. Thus, causal diagrams are a helpful tool to detect, graphically, possible sources of bias and to guide investigators in the design of their data analysis ([**19**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#), [**30**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#), [**52**](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-031811-124606?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed#)).
+
+## 
